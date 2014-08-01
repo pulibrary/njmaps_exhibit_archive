@@ -1,0 +1,34 @@
+# These are the default Jekyll configuration settings, which are explicit here to prevent a configuration warning when starting the Jekyll server. To change these or learn more about configuration, visit http://jekyllrb.com/docs/configuration/.
+
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+layouts:     ./_layouts
+include:     ['.htaccess']
+exclude:     []
+keep_files:  ['.git','.svn']
+gems:        []
+timezone:    nil
+encoding:    nil
+
+future:      true
+show_drafts: nil
+limit_posts: 0
+
+relative_permalinks: true
+
+permalink:     date
+paginate_path: 'page:num'
+
+markdown:      rdiscount
+
+excerpt_separator: "\n\n"
+
+safe:        false
+watch:       false    # deprecated
+server:      false    # deprecated
+host:        0.0.0.0
+port:        4000
+baseurl:     /
+url:         http://localhost:4000
+lsi:         false

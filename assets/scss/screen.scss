@@ -1,0 +1,363 @@
+// ---------------------------------------------------------------------------
+// Imports
+
+@import "bourbon/bourbon";
+@import "base/base";
+@import "neat/neat"; 
+
+/* -------------------------------------------------------------------------*/
+/* Layout */
+
+body {
+	margin: 0;
+}
+
+section {
+  @include outer-container;
+  margin-top: 1em;
+  aside { @include span-columns(4); }
+  article { @include span-columns(8); }
+}
+
+.hero {
+  $hero-background-top: darken($base-accent-color, 25); 
+  $hero-background-bottom: adjust-hue($hero-background-top, -70);
+  $hero-color: white;
+  $gradient-angle: 10deg;
+  $hero-image: '../img/header.jpg';
+
+  @include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
+
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
+  padding: 2em;
+  min-height: 300px;
+
+  .hero-logo img {
+    height: 3em;
+    margin-bottom: 2.5em;
+  }
+
+  .hero-inner {
+    @include outer-container;
+    @include clearfix;
+    padding: 3em;
+    margin: auto;
+    text-align: center;
+    color: $hero-color;
+
+    .hero-copy {
+      background-color: rgba($muted-blue, 0.8);
+      width: 60%;
+      margin: 0 auto;
+      @include pad(1em);
+      text-align: center;
+      box-shadow: 0 0 0 2px rgba($cream, 0.8),
+                  0 0 0 15px rgba($muted-blue, 0.8);
+      
+      h1 {
+        font-size: 2.6em;
+        margin-bottom: .2em;
+        color: $cream;
+        text-shadow: 2px 2px $dark-gray;
+
+        @include media($large-screen) {
+          font-size: 2.8em;
+        }
+
+        .subtitle {
+          display: block;
+          font-size: 0.5em;
+        }
+      }
+
+      p {
+        font-family: $serif;
+        margin: auto;
+        margin-bottom: 3em; 
+        font-weight: 200;
+        line-height: 1.4em;
+
+        @include media($large-screen) {
+          font-size: 1.1em;
+          max-width: 40%;
+        }
+      }
+    }
+  }
+}
+
+article {
+  @include clearfix;
+  @include pad(1em);
+  text-align: left;
+
+  .type {
+    border-bottom: 1px solid;
+    display: inline-block;
+    font-family: $sans-serif;
+    font-size: .7em;
+    font-weight: 700;
+    margin-bottom: 3em;
+    padding: .3em 0;
+    text-align: left;
+    text-transform: uppercase;
+  }
+
+  h1 {
+    font-family: $serif;
+    font-size: 2em;
+    font-weight: 400;
+    margin-bottom: .6em;
+
+    @include media($medium-screen) {
+      font-size: 2.6em;
+    }
+  }
+
+  h2 {
+    font-family: $serif;
+    font-style: italic;
+    font-size: 1em;
+    font-weight: 400;
+    line-height: 1.6em;
+    margin-bottom: 1.2em;
+
+    @include media($medium-screen) {
+      font-size: 1.2em;
+    }
+  }
+
+  code {
+    white-space: nowrap;
+    font-family: monaco;
+    background: #F7F7F7;
+    border: 1px solid #E0E0E0;
+    border-radius: $base-border-radius * 1.5;
+    padding: .1em .4em;
+    font-size: .75em;
+    font-style: normal;
+  }
+
+  h3, h4 {
+    font-family: $serif;
+    font-size: 1.4em;
+    font-weight: 700;
+    line-height: 1.3em;
+    margin-bottom: 1em;
+  }
+
+  h4 {
+  	font-size: 1em;
+  }
+
+  p.date {
+    color: transparentize($base-font-color, .6);
+    font-family: $serif;
+    font-style: italic;
+    font-size: .9em;
+    margin-bottom: .3em;
+  }
+
+  p {
+    font-family: $serif;
+    line-height: 1.6em;
+    font-size: .9em;
+    margin-bottom: 1.5em;
+
+    span {
+      font-family: $sans-serif;
+      font-weight: 700;
+    }
+  }
+
+  a.read-more {
+    display: inline-block;
+    font-family: $sans-serif;
+    font-weight: 700;
+    font-size: .8em;
+    text-transform: uppercase;
+    margin-left: .2em;
+    position: relative;
+
+    span {
+      font-family: $serif;
+      font-style: normal;
+      position: absolute;
+      font-size: 1.5em;
+      top: -1px;
+      right: -12px;
+    }
+  }
+  
+  hr {
+    width: 3em;
+  }
+
+  p.author {
+    font-family: $serif;
+    font-style: italic;
+  }
+
+  img.thumb {
+  	display: block;
+  	margin: .5em auto 1.5em;
+  }
+  p.caption {
+  	text-align: center;
+  }
+}
+
+aside {
+	@include pad(1em);
+
+  h4 {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+  }
+
+	nav {
+		background: $lighter-gray;
+
+    .empty {
+      display: block;
+      @include pad(1em);
+      color: $dark-gray;
+      font-weight: bold;
+      font-family: sans-serif;
+      font-size: .9em;
+    }
+
+		a {
+			display: block;
+			@include pad(1em);
+			color: $dark-gray;
+			font-weight: bold;
+			font-family: sans-serif;
+			font-size: .9em;
+
+			&:hover {
+				background: darken($lighter-gray, 10%);
+			    color: $dark-gray;
+			}
+
+			&:active, &:focus {
+			    color: $hover-link-color;
+			    outline: none;
+			}
+		}
+
+		ul ul a {
+			padding-left: 3em;
+		}
+		
+	}
+}
+
+.county {
+	display: inline;
+	float: right;
+}
+
+table {
+	display: inline;
+	font-size: 0.9em;
+}
+
+p:nth-of-type(2) {
+	clear:both;
+
+	&:first-letter {
+		float: left;
+		// color: $red; 
+		font-size: 75px; 
+		font-style: normal;
+		line-height: 60px; 
+		padding-top: 4px; 
+		padding-right: 8px; 
+		padding-left: 3px; 
+		// font-family: Georgia;
+	}
+}
+
+figcaption {
+	text-align: center;
+	font-size: 0.8em;
+	font-style: italic;
+}
+
+.resource.two-up {
+	display: inline-block;
+	width: 49%;
+	margin: 1em 0;
+}
+
+.highlight {
+	text-align: center;
+	border: 1px #ccc solid;
+	@include pad(1em);
+	margin: 1.5em;
+
+	p {
+		font-family: $sans-serif;
+		margin: 0;
+	
+		&:nth-of-type(2):first-letter {
+			float: none;
+			font-size: inherit;
+			padding: 0;
+			line-height: inherit;
+		}
+	}
+}
+
+.curator {
+	width:100%;
+
+	p {
+		text-align: right;
+		padding: 0;
+		margin: 0;
+
+		&:nth-of-type(2):first-letter {
+			float: none;
+			font-size: inherit;
+			padding: 0;
+			line-height: inherit;
+		}
+	}
+}
+
+small {
+	line-height: 1.5em;
+	display: inline-block;
+}
+
+.sources ul li {
+	margin-bottom: 2.2em;
+	font-size: 0.9em;
+}
+
+.modal {
+  @include pad(3em);
+  border-radius: 0.1875em;
+
+  .close {
+    -webkit-font-smoothing: antialiased;
+    background-color: darken($lighter-gray, 10%);
+    border-radius: 0.1875em;
+    color: $dark-gray;
+    display: inline-block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1;
+    padding: .75em 1em;
+    text-decoration: none;
+  }
+}
+
+.openseadragon {
+  background-color: #000;
+  border-radius: 0.1875em;
+}

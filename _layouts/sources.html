@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+    <body>
+
+    {% include header.html %}
+
+    <section>
+      <aside>
+          {% include nav.html %}
+      </aside>
+      <article class="sources">
+          {{ content }}
+      </article>
+    </section>
+
+    <div id="lightbox"></div>
+    <div class="modal fade" id="container">
+      <div class="header" id="imgZoomLabel"></div>
+      <div class="openseadragon" id="viewer"></div>
+      <div class="footer"><a class="close" data-dismiss="modal">Close</a></div>
+    </div>
+
+    </body>
+</html>
