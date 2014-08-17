@@ -1,0 +1,25 @@
+/*
+Errno::ENOENT: No such file or directory - stylesheets/sass
+
+Backtrace:
+/Users/aliauw/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/gems/2.0.0/gems/sass-3.3.10/lib/sass/plugin/compiler.rb:369:in `read'
+/Users/aliauw/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/gems/2.0.0/gems/sass-3.3.10/lib/sass/plugin/compiler.rb:369:in `update_stylesheet'
+/Users/aliauw/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/gems/2.0.0/gems/sass-3.3.10/lib/sass/plugin/compiler.rb:189:in `block in update_stylesheets'
+/Users/aliauw/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/gems/2.0.0/gems/sass-3.3.10/lib/sass/plugin/compiler.rb:186:in `each'
+/Users/aliauw/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/gems/2.0.0/gems/sass-3.3.10/lib/sass/plugin/compiler.rb:186:in `update_stylesheets'
+/Users/aliauw/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/gems/2.0.0/gems/sass-3.3.10/lib/sass/plugin/compiler.rb:221:in `watch'
+/Users/aliauw/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/gems/2.0.0/gems/sass-3.3.10/lib/sass/plugin.rb:108:in `method_missing'
+/Users/aliauw/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/gems/2.0.0/gems/sass-3.3.10/lib/sass/exec.rb:509:in `watch_or_update'
+/Users/aliauw/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/gems/2.0.0/gems/sass-3.3.10/lib/sass/exec.rb:346:in `process_result'
+/Users/aliauw/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/gems/2.0.0/gems/sass-3.3.10/lib/sass/exec.rb:43:in `parse'
+/Users/aliauw/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/gems/2.0.0/gems/sass-3.3.10/lib/sass/exec.rb:22:in `parse!'
+/Users/aliauw/.rvm/rubies/ruby-2.0.0-p481/lib/ruby/gems/2.0.0/gems/sass-3.3.10/bin/sass:13:in `<top (required)>'
+/Users/aliauw/.rvm/gems/ruby-2.0.0-p481/bin/sass:23:in `load'
+/Users/aliauw/.rvm/gems/ruby-2.0.0-p481/bin/sass:23:in `<main>'
+/Users/aliauw/.rvm/gems/ruby-2.0.0-p481/bin/ruby_executable_hooks:15:in `eval'
+/Users/aliauw/.rvm/gems/ruby-2.0.0-p481/bin/ruby_executable_hooks:15:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Errno::ENOENT: No such file or directory - stylesheets/sass"; }

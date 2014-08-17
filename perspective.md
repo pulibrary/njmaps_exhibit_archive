@@ -29,27 +29,22 @@ Edmund Gunter (1581–1626). _The Workes of Edmund Gunter, Containing the Descri
 
 One of the great instrument-makers of the seventeenth century, English mathematician Edmund Gunter introduced a one hundred–link surveying chain in 1620, which became a standard surveyor's tool well into the nineteenth century (see an example below). He is also considered to be one of the inventors of the logarithm, and was the first to use the terms _cosine_, _cotangent_, and _cosecant_ for the complements to an arc of the sine, tangent, and secant.
 
-<div class="resource">
-	<a href="#imgZoom"><img class="thumb" data-info="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2F1653-gunter-title-page.jp2/info.json" src="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2F1653-gunter-title-page.jp2/full/!750,750/0/native.jpg"></a>
-	<p class="caption">1653-gunter-title-page</p>
-</div>
+{% assign dir = "intro" %}
+{% assign id = "1653-gunter-title-page" %}
+{% assign title = "Title page. (&quot;The Third Edition&quot; apparently refers to earlier editions of parts of this work, not this collected whole.) Each of the four men is shown using one of Gunter's instruments (_clockwise from top left_): the sector, the cross-staff, the quadrant,and the crossbow cross-staff." %}
+{% include figure-left.html %}
 
-Title page. ("The Third Edition" apparently refers to earlier editions of parts of this work, not this collected whole.) Each of the four men is shown using one of Gunter's instruments (_clockwise from top left_): the sector, the cross-staff, the quadrant,and the crossbow cross-staff.
-
-<div class="resource">
-	<a href="#imgZoom"><img class="thumb" data-info="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2F1653-gunter-table.jp2/info.json" src="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2F1653-gunter-table.jp2/full/!750,750/0/native.jpg"></a>
-</div>
-
-Gunter's table for chain measurements. _Centesme_ is one one-hundredth of a chain (7.92 inches). Perch is equivalent to the more standard term _rod_, or one quarter of a chain. _Pace_ is the distance of a stride (every other step), standardized as five feet.
+{% assign dir = "intro" %}
+{% assign id = "1653-gunter-table" %}
+{% assign title = "Gunter's table for chain measurements. Centesme is one one-hundredth of a chain (7.92 inches). Perch is equivalent to the more standard term rod, or one quarter of a chain. Pace is the distance of a stride (every other step), standardized as five feet." %}
+{% include figure.html %}
 
 John Love (active 1688). _The Whole Art of Surveying and Measuring of Land Made Easie. Shewing, by Plain and Practical Rules, How to Survey, Protract, Cast Up, Reduce or Divide Any Piece of Land Whatsoever; with New Tables for the Ease of the Surveyor in Reducing the Measures of Land. Moreover, a More Easie and Sure Way of Surveying by the Chain, Than Has Hitherto Been Taught. As Also, How to Lay Out New Lands in America, or Elsewhere; to Make a Perfect Map of a River's Mouth or Harbour; with Several Other Things Never Yet Published in Our Language_ (London: W. Taylor, 1716) [Rare Books Division]. The third edition, with additions.
 
-<div class="resource">
-	<a href="#imgZoom"><img class="thumb" data-info="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2F1716-love-title-page.jp2/info.json" src="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2F1716-love-title-page.jp2/full/!750,750/0/native.jpg"></a>
-</div>
-
-Title page. This was the bible of early American surveyors, including George Washington, who used the eighth edition (_Geodæsia: or, The Art of Surveying_, 1768).A Colonial surveyor in Carolina and Jamaica, Love saw firsthand the problems of men who were taking up grants of land in America without adequate surveying knowledge.
-
+{% assign dir = "intro" %}
+{% assign id = "1716-love-title-page" %}
+{% assign title = "Title page. This was the bible of early American surveyors, including George Washington, who used the eighth edition (Geodæsia: or, The Art of Surveying, 1768).A Colonial surveyor in Carolina and Jamaica, Love saw firsthand the problems of men who were taking up grants of land in America without adequate surveying knowledge." %}
+{% include figure-left.html %}
 >[I]f you ask, why I write a book of this nature, since we have so many very good ones already in our own Language? I answer, because I cannot find in those Books, many things, of great consequence, to be understood by the Surveyor. I have seen Young men, in _America_, often nonplus'd so, that their Books would not help them forward, particularly in _Carolina_, about Laying out Lands, when a certain quantity of Acres has been given to be laid out five or six times as broad as long. This I know is to be laught at by a Mathematician; yet to such as have no more of this Learning, than to know how to Measure a Field, it seems a difficult Question: And to what Book already Printed of Surveying shall they repair to, to be resolved? [from Love's preface].
 
 He published the first edition in 1688, simplifying the process with clear rules and procedures. There are chapters on geometrical definitions and problems, instruments and their uses, diverse ways to take the plot of lands, how to calculate acreage, how to lay out, reduce, and divide plots of land, and trigonometry. Instructions are given in using Gunter's chain and measuring angles with the circumferentor, plane table, and semicircle. The text is illustrated with numerous examples and, in this edition, includes "A Table of Sines and Tangents to Every Fifth Minute of the Quadrant." Later editions of the book appeared for more than a century; the twelfth (1793) and thirteenth (1796) editions were published in New York. The work changed little over the years, even considering the later revisions of Samuel Clark.
@@ -57,29 +52,26 @@ He published the first edition in 1688, simplifying the process with clear rules
 ###Surveying Instruments
 
 ####Measuring angles
-  
-<div class="resource">
-	<a href="#imgZoom"><img class="thumb" data-info="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2Fsurveyors-compass-1760.jp2/info.json" src="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2Fsurveyors-compass-1760.jp2/full/!750,750/0/native.jpg"></a>
-</div>
 
-<div class="resource">
-	<a href="#imgZoom"><img class="thumb" data-info="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2Fsurveyor-compass-detail.jp2/info.json" src="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2Fsurveyor-compass-detail.jp2/full/!750,750/0/native.jpg"></a>
-</div>
+{% assign dir = "intro" %}
+{% assign id = "surveyors-compass-1760" %}
+{% assign title = "Thomas Greenough (1710–1785). Surveyor's compass or circumferentor, ca. 1760 [Historic Maps Collection]." %}
+{% include figure-left.html %}
 
-Thomas Greenough (1710–1785). Surveyor's compass or circumferentor, ca. 1760 [Historic Maps Collection]. Diameter (including frame), 6.25 inches; between the sights, 12 inches; height, 6 inches. Cherrywood stand and frame support. The paper compass card shows a man in a red coat looking out to sea with a quadrant instrument, and a sailing vessel rides on the horizon. The card has eight points, like a star (one is a fleur-de-lis), and bears printed divisions of 0° to 90° in each of its four quadrants. The inscription reads, "Made by Thomas Greenough, Boston, New England." Greenough was an American colonial instrument maker.
-
+{% assign dir = "intro" %}
+{% assign id = "surveyor-compass-detail" %}
+{% assign title = "Thomas Greenough (1710–1785). Surveyor's compass or circumferentor, ca. 1760 [Historic Maps Collection]. Diameter (including frame), 6.25 inches; between the sights, 12 inches; height, 6 inches. Cherrywood stand and frame support. The paper compass card shows a man in a red coat looking out to sea with a quadrant instrument, and a sailing vessel rides on the horizon. The card has eight points, like a star (one is a fleur-de-lis), and bears printed divisions of 0° to 90° in each of its four quadrants. The inscription reads, &quot;Made by Thomas Greenough, Boston, New England.&quot; Greenough was an American colonial instrument maker." %}
+{% include figure.html %}
 By sighting two different points from the same spot, such as the corner of a property, a surveyor could easily determine the intervening horizontal angle by addition or subtraction of the two recorded compass readings.
 
 The surveyor's compass was superseded by the theodolite.
 
 ####Measuring distance
   
-<div class="resource">
-	<a href="#imgZoom"><img class="thumb" data-info="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2Fgunters-chain.jp2/info.json" src="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2Fgunters-chain.jp2/full/!750,750/0/native.jpg"></a>
-</div>
-
-Unknown maker. Gunter's chain, pre-1800 [Historic Maps Collection]. Handmade wrought iron handles, rings, and links; pewter tallies (these are usually brass), 65.7 feet in length. Ideally, 1 link = 7.92 inches; 100 links = 4 rods = 66 feet; and 80 chains = 5,280 feet or 1 mile. An acre is 10 square chains.
-
+{% assign dir = "intro" %}
+{% assign id = "gunters-chain" %}
+{% assign title = "Unknown maker. Gunter's chain, pre-1800 [Historic Maps Collection]. Handmade wrought iron handles, rings, and links; pewter tallies (these are usually brass), 65.7 feet in length. Ideally, 1 link = 7.92 inches; 100 links = 4 rods = 66 feet; and 80 chains = 5,280 feet or 1 mile. An acre is 10 square chains." %}
+{% include figure-left.html %}
 >There are several sorts of Chains... But that which is most in use among Surveyors (as being indeed the best) is Mr. _Gunter's_... [Love, p. 54].
 
 This is one of the standard distance measurement tools of colonial surveyors, lasting well into the nineteenth century. Theoretically, each link should measure 7.92 inches, but in this heavily used example the blacksmith varied the number of connecting rings between the links from one to four to make up for the variations in link length. Divisions along the chain are noted by the claw-shaped tallies (one to four toes), with notches indicating the number of ten-link sections; a round tally indicates the halfway point. (This chain is missing the second four-toe tally.) The total distance from handle end to handle end is approximately sixty-six feet.
@@ -88,37 +80,33 @@ In the field, the chain is stretched out by chain bearers along a specific path 
 
 Chains were superseded by steel tapes.
 
-<div class="resource">
-	<a href="#imgZoom"><img class="thumb" data-info="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2Fwaywise1.jp2/info.json" src="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2Fwaywise1.jp2/full/!750,750/0/native.jpg"></a>
-</div>
+{% assign dir = "intro" %}
+{% assign id = "waywise1" %}
+{% assign title = "Unknown maker. Waywiser or surveyor's wheel, ca. 1850 [Historic Maps Collection]." %}
+{% include figure-left.html %}
 
-Unknown maker. Waywiser or surveyor's wheel, ca. 1850 [Historic Maps Collection]. Constructed almost entirely of oak and pine wood including the gear train that drives the dials that indicate the distance traveled. The wheel rim and the dial arrows are metal. There are two boxes mounted on the frame: one opens to reveal the gear train; the other provides storage space and includes a small drawer. In addition, a larger storage box hangs below the frame. The two rear supports are folded up when pushing the waywiser (those are modern replacements). (Photographs courtesy of Luke Vavra.)
-
-<div class="resource">
-	<a href="#imgZoom"><img class="thumb" data-info="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2Fwaywiser2.jp2/info.json" src="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2Fwaywiser2.jp2/full/!750,750/0/native.jpg"></a>
-</div>
-
+{% assign dir = "intro" %}
+{% assign id = "waywiser2" %}
+{% assign title = "Unknown maker. Waywiser or surveyor's wheel, ca. 1850 [Historic Maps Collection]. Constructed almost entirely of oak and pine wood including the gear train that drives the dials that indicate the distance traveled. The wheel rim and the dial arrows are metal. There are two boxes mounted on the frame: one opens to reveal the gear train; the other provides storage space and includes a small drawer. In addition, a larger storage box hangs below the frame. The two rear supports are folded up when pushing the waywiser (those are modern replacements). (Photographs courtesy of Luke Vavra.)" %}
+{% include figure.html %}
 With this wheelbarrow-like instrument—not much different in function from today's odometer— a surveyor could walk a route over a dirt road or field and easily measure the distance traveled. The revolutions of the large wheel turn dials in the wooden box that provide readings in feet, rods, furlongs, and miles. The circumference of the wheel is 8.25 feet; hence, two revolutions equal one rod (16.5 feet); forty rods make a furlong, and eight furlongs match one mile.
 
-<div class="resource">
-	<a href="#imgZoom"><img class="thumb" data-info="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2Fbates-waywiser-1879.jp2/info.json" src="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2Fbates-waywiser-1879.jp2/full/!750,750/0/native.jpg"></a>
-</div>
-
-Illustration of a nineteenth-century American surveyor using a waywiser.<sup>3</sup>
+{% assign dir = "intro" %}
+{% assign id = "bates-waywiser-1879" %}
+{% assign title = "Illustration of a nineteenth-century American surveyor using a waywiser.<sup>3</sup>" %}
+{% include figure.html %}
 
 ###Sample Survey
 
-<div class="resource">
-	<a href="#imgZoom"><img class="thumb" data-info="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2F1749-brearley-yard-survey.jp2/info.json" src="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2F1749-brearley-yard-survey.jp2/full/!750,750/0/native.jpg"></a>
-</div>
+{% assign dir = "intro" %}
+{% assign id = "1749-brearley-yard-survey" %}
+{% assign title = "Joseph Yard. Survey of James Clarke and David Brearley lots near the Stony Brook, dated December 2, 1749 [Clarke Family of New Jersey Collection, Manuscripts Division]. Manuscript map on paper, 15.5 × 27 cm. Notice that the lengths are given in number of chains and links between posts and trees." %}
+{% include figure.html %} 
 
-<div class="resource">
-	<a href="#imgZoom"><img class="thumb" data-info="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2Fbrearley-survey-1749.jp2/info.json" src="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2Fintro%2Fbrearley-survey-1749.jp2/full/!750,750/0/native.jpg"></a>
-</div>
-
-Joseph Yard. Survey of James Clarke and David Brearley lots near the Stony Brook, dated December 2, 1749 [Clarke Family of New Jersey Collection, Manuscripts Division]. Manuscript map on paper, 15.5 × 27 cm. Notice that the lengths are given in number of chains and links between posts and trees.
- 
-2014: The three lots are located in Princeton Township, on the northwest side of Route 206 (Stockton Street) before it crosses the Stony Brook Bridge from Princeton. (The bend is still in the road.) The Brearley house on the map is now 487 Stockton Street.4 David Brearley (d. 1785), Clarke's brother-in-law, was the father of David Brearley (1745-1790, usually spelled Brearly), signer of the Constitution and chief justice of the New Jersey Supreme Court.
+{% assign dir = "background" %}
+{% assign id = "2014-province-road" %}
+{% assign title = "2014: The three lots are located in Princeton Township, on the northwest side of Route 206 (Stockton Street) before it crosses the Stony Brook Bridge from Princeton. (The bend is still in the road.) The Brearley house on the map is now 487 Stockton Street.4 David Brearley (d. 1785), Clarke's brother-in-law, was the father of David Brearley (1745-1790, usually spelled Brearly), signer of the Constitution and chief justice of the New Jersey Supreme Court." %}
+{% include figure.html %}
 
 ---
 

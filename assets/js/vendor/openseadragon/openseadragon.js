@@ -10714,7 +10714,7 @@ $.extend( $.IIIFTileSource.prototype, $.TileSource.prototype, /** @lends OpenSea
 
 
         if ( level_width < this.tile_width && level_height < this.tile_height ){
-            iiif_size = level_width + ","; // + level_height; only one dim. for IIIF level 1 compliance
+            iiif_size = level_width + "," + level_height; //only one dim. for IIIF level 1 compliance
             iiif_region = 'full';
         } else {
             iiif_tile_x = x * iiif_tile_size_width;

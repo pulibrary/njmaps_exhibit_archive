@@ -1,0 +1,29 @@
+<table>
+	<thead>
+		<tr>
+			<td>County Data</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><strong>Founded:</strong> {{ founded }}</td>
+			<td rowspan="5">
+				<figure class="resource">
+					<a href="#imgZoom"><img class="thumb" data-info="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2F{{ county }}%2F{{ county2 }}.jp2/info.json" src="http://libimages.princeton.edu/loris/exhibits%2Fnj-historic-maps%2F{{ county }}%2F{{ county2 }}.jp2/full/!300,300/0/native.jpg"></a>
+				</figure>
+			</td>
+		</tr>
+		<tr>
+			<td><strong>Total Area:</strong> {{ area }}</td>
+		</tr>
+		<tr>
+			<td><strong>Population:</strong>  {{ population }}</td>
+		</tr>
+		<tr>
+			<td><strong>County Seat:</strong> {{ county_seat }}</td>
+		</tr>
+		<tr>
+			<td><strong>Largest City:</strong> {{ largest_city }}</td>
+		</tr>
+	</tbody>
+</table>

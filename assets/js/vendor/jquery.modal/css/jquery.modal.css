@@ -33,8 +33,8 @@
   z-index: 4000; }
   .modaler .modal {
     position: relative;
-    height: 80%;
-    width: 80%;
+    height: 90%;
+    width: 95%;
     top: inherit;
     left: inherit;
     right: inherit;
@@ -42,7 +42,7 @@
 
 .modal {
   position: fixed;
-  background: white;
+  background: #000;
   top: 20%;
   left: 50%;
   right: 50%;
@@ -78,9 +78,9 @@
     max-height: 480px;
     overflow: auto; }
   .modal .header {
-    border-bottom: 1px solid #eeeeee; }
+    border-bottom: none; }
   .modal .footer {
-    border-top: 1px solid #eeeeee; }
+    border-top: none; }
   .modal .close {
     /*color: gray;*/
     float: right;
@@ -89,9 +89,9 @@
     /*width: 20px;*/
     /*height: 20px;*/
     display: block;
-    font-size: 20px;
+    /*font-size: 20px;*/
     font-weight: bold;
-    line-height: 20px;
+    /*line-height: 20px;*/
     text-align: center; }
 
 .vignette {

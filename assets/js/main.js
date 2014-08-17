@@ -1,11 +1,28 @@
 // JavaScript Document
  /* LOCAL FUNCTIONS FOR FINDINGAIDS PAGE
   * ======================================================= */
-
+$(document).ready(function() {
+    var pathname = window.location.href.split('#')[0];
+    $('a[href^="#"]').each(function() {
+        var $this = $(this),
+            link = $this.attr('href');
+        $this.attr('href', pathname + link);
+    });
+});
 
 
 $(document).ready(function(){
-	
+
+	$( "nav .counties-deets" ).hide();
+	$( "nav .background-deets" ).hide();
+
+	$( ".counties" ).click(function() {
+		$(this).find('ul').slideToggle();
+	});
+	$( ".background" ).click(function() {
+		$(this).find('ul').slideToggle();
+	});
+
 	
 	function closeModal() {
 		// $("#lightbox").fadeOut( "slow" );
@@ -28,7 +45,7 @@ $(document).ready(function(){
 		var url = thumb.attr("data-info");
 		
 		// update the modal title
-		$("#imgZoomLabel").text(label);
+		// $("#imgZoomLabel").text(label);
 	        var promises = []
 		promises.push(setOverlaySize());
 		promises.push( $.getJSON(url + CB,
@@ -55,7 +72,7 @@ $(document).ready(function(){
 	
 	var osd_config = {
 		id: "viewer",
-		prefixUrl: "/assets/js/vendor/openseadragon/images/",
+		prefixUrl: "/njmaps/assets/js/vendor/openseadragon/images/",
 		preserveViewport: true,
 		showNavigator:  true,
 		visibilityRatio: 1,

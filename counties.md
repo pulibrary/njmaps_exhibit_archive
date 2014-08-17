@@ -15,51 +15,56 @@ The county atlas was a unique American cartographic format, usually subsidized t
 
 Harrington Bates's _How 'Tis Done_ (1879) is a blistering exposé of the map publishers' business strategy in the making of these nineteenth-century county maps and atlases. "In nearly every portion of the Eastern, Middle and Western States the people have been made to pay a mighty tribute to the map, atlas, and county history schemes" [Bates, p. 11]. Though the wall map and county atlas businesses began in the East, Bates draws heavily on midwestern examples, particularly maps and atlases of Illinois and Iowa. He groups map canvassers with snake oil peddlers. The scheme they used was as predictable, he says, as it was profitable. Enlist official endorsements. Get the local Board of Supervisors to buy a copy of the map/atlas for each county and township officer. Secure newspaper advertising that promoted the public benefit of the project. Convince prominent citizens of the usefulness of the map/atlas in promoting the beauty and business opportunities of their localities. Use their testimonials in print advertising and in word-of-mouth publicity. Send out well-dressed, smooth-talking canvassers to solicit the farmers and merchants who, by then, had already heard positive news of the project. Obtain subscriptions by flattering them about their farm/business and by showing them how their neighbors will be envious of the detailed, idealized engravings they order. Make price an afterthought.
 
-- Illustration of canvasser selling a county atlas to a farmer [Bates, p. 65]. [caption]
+Illustration of canvasser selling a county atlas to a farmer [Bates, p. 65].
 
 The profits to the publisher could be substantial. Bates gives examples of both a county wall map's production expenses and subscription revenues and a county atlas's balance sheet:
 
-Sales of 1200 maps (subscribers at $6/each) and 50 views ($40/each): $9,200
+>Sales of 1200 maps (subscribers at $6/each) and 50 views ($40/each): $9,200
 
-Cost of commissions, engravings, printing, etc.: $4,344.
+>Cost of commissions, engravings, printing, etc.: $4,344.
 
-Profit: $4,856 [Bates, p. 49].
+>Profit: $4,856 [Bates, p. 49].
 
-Sales of 2140 county atlases (subscribers at $9/each), views, portraits, biographies, business notices (at various amounts): $33,218
+>Sales of 2140 county atlases (subscribers at $9/each), views, portraits, biographies, business notices (at various amounts): $33,218
 
-Total cost of production: $15,663.
+>Total cost of production: $15,663.
 
-Profit: $17,555 [Bates, p. 69].
+>Profit: $17,555 [Bates, p. 69].
 
 More local methods:
 
-**Box this?:** Map of Hunterdon County, N.J., from Original Survey Throughout the Whole County.—The subscribers are preparing to publish, by subscription, a new and complete Map of Hunterdon County. —The survey will be made by Samuel C. Cornell, one of the Publishers. All the public roads, and the locations of the Mills, Taverns, Churches, Post Offices, School Houses, Country Stores, Smith Shops, Wheelwrights, &c., are to be marked. The Names of Property Holders are also to be inserted upon their places, in the style of the Map of Mercer co., about to be published. To be illustrated with vignettes of views in Hunterdon county. A Map of Flemington, on a large scale, will be inserted in the margin.
+<div class="highlight">
+	<p>Map of Hunterdon County, N.J., from Original Survey Throughout the Whole County.—The subscribers are preparing to publish, by subscription, a new and complete Map of Hunterdon County. —The survey will be made by Samuel C. Cornell, one of the Publishers. All the public roads, and the locations of the Mills, Taverns, Churches, Post Offices, School Houses, Country Stores, Smith Shops, Wheelwrights, &c., are to be marked. The Names of Property Holders are also to be inserted upon their places, in the style of the Map of Mercer co., about to be published. To be illustrated with vignettes of views in Hunterdon county. A Map of Flemington, on a large scale, will be inserted in the margin.</p>
+	<p>The plan will be plotted to a scale of 1 1-4 inches to the miles, which will make a large and ornamental Map, to be engraved and delivered to subscribers, handsomely colored, mounted and varnished, at $4.50 per copy.</p>
+	<p>This Map will be about the size of Gordon's State Map, and will differ from it by containing the names of the property owners, and much minute local information that could not be noticed in a State Map.</p>
+	<p class="sig">Samuel C. Cornell,</p>
+	<p class="sig">L. Van Derveer,</p>
+	<p class="sig">Publishers, Mercer co., N.J.</p>
+	<p class="caption">[Hunterdon Gazette, No. 294 (October 17, 1849)]</p>
+</div>
 
-The plan will be plotted to a scale of 1 1-4 inches to the miles, which will make a large and ornamental Map, to be engraved and delivered to subscribers, handsomely colored, mounted and varnished, at $4.50 per copy.
-
-This Map will be about the size of Gordon's State Map, and will differ from it by containing the names of the property owners, and much minute local information that could not be noticed in a State Map.
-
-Samuel C. Cornell,
-
-L. Van Derveer,
-
-Publishers, Mercer co., N.J.
-
-[_Hunterdon Gazette_, No. 294 (October 17, 1849)]
-
-**Box this?** : We have received from the publisher, a copy of a Map of Hunterdon County, entirely from original surveys, and after a careful examination, we feel no hesitation in saying it is an invaluable acquisition to our County, and cannot fail to commend itself to our citizens. In every particular it is a correct representation, embracing all the roads, mountains and streams, with the names of landowners, laid down in their proper places. It also gives on the margin a plan of Flemington and Lambertville, and an engraving of the County buildings, beside the State Capital at Trenton. We trust that since this Map will be of important value to every citizen of our County, it will meet with a ready sale at the price demanded, that being only $4 [_Hunterdon Gazette_, No. 396 (October 1, 1851)].
+<div class="highlight">
+	<p>We have received from the publisher, a copy of a Map of Hunterdon County, entirely from original surveys, and after a careful examination, we feel no hesitation in saying it is an invaluable acquisition to our County, and cannot fail to commend itself to our citizens. In every particular it is a correct representation, embracing all the roads, mountains and streams, with the names of landowners, laid down in their proper places. It also gives on the margin a plan of Flemington and Lambertville, and an engraving of the County buildings, beside the State Capital at Trenton. We trust that since this Map will be of important value to every citizen of our County, it will meet with a ready sale at the price demanded, that being only $4.</p>
+	<p class="caption">[Hunterdon Gazette, No. 396 (October 1, 1851)]</p>
+</div>
 
 Unscrupulous men and methods? To the modern consumer, they seem contemporary, for today's "peddlers"—car salesmen, insurance agents, pharmaceutical companies—continue to borrow from these time-tested techniques. From the perspective of history, however, the verdict is clear, as Ristow acknowledged: the surviving county maps and county atlases are of inestimable value as visual records of the past
 
+---
+
 For New Jersey, the first county wall maps were published between 1849 and 1872. New Jersey county atlases first appeared between 1868 and 1882. In this volume, the following are shown (where possible) for each New Jersey county:
 
-- The first county wall map and a current photograph of a building/place engraved or shown on it
-- From the first county atlas:
-  - The title page
-  - The county map
-  - A township map
-  - A town or village map
-  - An engraving of a building or place (then) and a photograph of it (now)
+<ul class="bullet">
+	<li>The first county wall map and a current photograph of a building/place engraved or shown on it</li>
+	<li>From the first county atlas:
+	<ul>
+		<li>The title page</li>
+		<li>The county map</li>
+		<li>A township map</li>
+		<li>A town or village map</li>
+		<li>An engraving of a building or place (then) and a photograph of it (now)</li>
+	</ul></li>
+</ul>
 
 ---
 
