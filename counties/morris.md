@@ -20,9 +20,11 @@ title: Morris County
 
 {% assign dir = "morris" %}
 {% assign id = "1853-morris-county-wall-map" %}
-{% assign title = "1853: County Wall Map. Jesse Lightfoot. &quot;Map of Morris County, New Jersey, from Original Surveys&quot; (Morristown, [N.J.]: J. B. Shields, 1853) [Historic Maps Collection]. Wall map, with ornamental border and added color, 127 × 92 cm. Scale: 1 mile to 1.5 inches." %}
+{% assign title = "Jesse Lightfoot. &quot;Map of Morris County, New Jersey, from Original Surveys&quot; (Morristown, [N.J.]: J. B. Shields, 1853) [Historic Maps Collection]. Wall map, with ornamental border and added color, 127 × 92 cm. Scale: 1 mile to 1.5 inches." %}
 {% include figure.html %}
-_First wall map of Morris County._ It includes detailed plans of Dover and Morristown on the lower sides. Engravings of five Morristown buildings embellish the border: the courthouse, W. S. Cooper's Mansion House, the Second Presbyterian Church, the Episcopal Church, and the First Presbyterian Church.
+<p class="dropCap">
+	First wall map of Morris County. It includes detailed plans of Dover and Morristown on the lower sides. Engravings of five Morristown buildings embellish the border: the courthouse, W. S. Cooper's Mansion House, the Second Presbyterian Church, the Episcopal Church, and the First Presbyterian Church.
+</p>
 
 {% assign dir = "morris" %}
 {% assign id = "2013-morris-county-courthouse" %}
@@ -35,19 +37,21 @@ The Morris Canal snakes across the northern part of the county, using locks and 
 <h1 class="fancy">1874: Town Wall Map</h1>
 
 {% assign dir = "morris" %}
-{% assign id = "2013-washingtons-headquarters" %}
-{% assign title = "2013: The Ford Mansion, built by Jacob Ford, Jr., in 1774. It is shown on the map near the juncture of Morris Street and Washington Avenue. This was the headquarters of General George Washington during the severe winter of 1779–1780, when his troops camped in nearby Jockey Hollow, outside of town. Colonel Ford had participated in the Battle of Princeton, but he died in this house from pneumonia about a week later. Washington rented part of it from Ford's widow. The house is now owned by the National Park Service as part of the Morristown National Historic Park." %}
-{% include figure-left.html %}
-{% assign dir = "morris" %}
 {% assign id = "1874-morristown-map" %}
 {% assign title = "1874: Town Wall Map. George L. Hull. &quot;Map of Morristown, Morris County, N.J.&quot; ([Morristown, N.J.?]: Geo. L. Hull, 1874) [Historic Maps Collection]. Wall map, with added color, segmented in twenty-four pieces, mounted on cloth, 170 × 126 cm. Scale: 200 feet to 1 inch. One of five known institutional copies." %}
 {% include figure.html %}
-_First wall map of Morristown._ Among its numerous details, the map contains two important historic sites:
+_First wall map of Morristown._ Among its numerous details, the map contains two important historic sites: one military, the other scientific. 
+
+{% assign dir = "morris" %}
+{% assign id = "2013-washingtons-headquarters" %}
+{% assign title = "2013: The Ford Mansion, built by Jacob Ford, Jr., in 1774." %}
+{% include figure.html %}
+Shown on the map near the juncture of Morris Street and Washington Avenue (see &quot;Henry W. Ford&quot;) is the headquarters used by General George Washington during the severe winter of 1779–1780, when his troops camped in nearby Jockey Hollow, outside of town. Colonel Ford had participated in the Battle of Princeton, but he died in this house from pneumonia about a week later. Washington rented part of it from Ford's widow. The house is now owned by the National Park Service as part of the Morristown National Historic Park. 
 
 {% assign dir = "morris" %}
 {% assign id = "2013-speedwell-factory-building" %}
 {% assign title = "2013: The Factory building at the Vail estate, just past Speedwell Lake on Speedwell Avenue. " %}
-{% include figure-left.html %}
+{% include figure.html %}
 This is the birthplace of the telegraph. Though Samuel F. B. Morse is credited as the father of the American telegraph, he would not have succeeded without his Morristown partner, Alfred Vail. Their formal agreement was signed on September 23, 1837, giving Vail one-fourth of all American rights upon construction, at his cost, of a workable model that could be exhibited to officials in Washington, D.C. It was Vail who developed the powerful electromagnets that the system required. The first successful public demonstration of the telegraph took place at Vail's estate (Speedwell Iron Works) on January 6, 1838. The transmitted message, &quot;Railroad cars just arrived, 345 passengers,&quot; emphasized the future practical and commercial uses of the invention. The telegraph demonstration took place in this building, called the Factory. Restored in 2008, it is a National Historic Landmark.
 
 <h1 class="fancy">1868: County Atlas</h1>
@@ -73,14 +77,14 @@ Now grown to fourteen, the townships are differentiated in pink, green, yellow, 
 The township is divided into fourteen school districts, tinted in yellow, green, pink, or orange. The faint numbers along the roads show the distances in rods between junctions, and a township directory provides the names and occupations of prominent professionals, tradesmen, and farmers.
 
 {% assign dir = "morris" %}
-{% assign id = "2014-schooleys-mountain-seminary" %}
-{% assign title = "2014: Schooley's Mountain Seminary site today. The &quot;Forest Grove Cottage,&quot; seen in the distance, dates from about 1885 and is a private residence." %}
+{% assign id = "2013-schooleys-mountain-general-store" %}
+{% assign title = "2013: Schooley's Mountain General Store (and post office), shown on the following map as &quot;Store & P.O.&quot; It dates from the late 1830s." %}
 {% include figure-left.html %}
 >**1834:** _**Schooley's Mountain**_, _Schugl's Hills_, forms part of the central granitic chain. . . . The mineral spring near the top has given much celebrity to this region. . . . Remarkable cures have been ascribed to it. . . . To those in pursuit of health or pleasure, this region presents equal attraction. A short journey brings the patient from the level of the tide water to a very desirable elevation, which tempers the summer's heat, and braces the relaxed frame. The plain on the top of the mountain affords very pleasant rides amid ever changing and delightful scenery, in which cheering views of improved and profitable agriculture are blended with the velvet plain, the craggy hill, and shadowy vale. Thus the invalid has every incentive to exercise, by the highest gratification from his exertions. To him who seeks relaxation from the cares of business, or to change sedentary occupation and feebleness for activity and vigour, the excellent society which assembles here during the summer months, the abundant sport in fowling and fishing, and the delightful scenery hold forth strong inducements; to which, we would be unjust not to add the excellent fare, cheerful attention, and comfortable accommodation given to visitors at the three hotels, and several farm houses in the vicinity of the spring [Gordon, pp. 233–235].
 
 {% assign dir = "morris" %}
-{% assign id = "2013-schooleys-mountain-general-store" %}
-{% assign title = "2013: Schooley's Mountain General Store (and post office), shown on the following map as &quot;Store & P.O.&quot; It dates from the late 1830s." %}
+{% assign id = "2014-schooleys-mountain-seminary" %}
+{% assign title = "2014: Schooley's Mountain Seminary site today. The &quot;Forest Grove Cottage,&quot; seen in the distance, dates from about 1885 and is a private residence." %}
 {% include figure-left.html %}
 {% assign dir = "morris" %}
 {% assign id = "1868-schooley-mountain-seminary" %}

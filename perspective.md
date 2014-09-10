@@ -11,7 +11,9 @@ title: Perspective&#58; Surveying Land
 
 ###The Colonial Surveyor
 
-Robert Erskine (1735–1780), Scottish-born inventor and engineer, and ironmaster of New Jersey's Ringwood Ironworks during the Revolutionary War, was appointed as the first Geographer and Surveyor General of the Continental Army by George Washington on July 27, 1777. <sup>1</sup> In his reply from Ringwood, dated August 1, 1777, Erskine outlined the duties and difficulties he envisaged in such work:
+<p class="dropCap">
+	Robert Erskine (1735–1780), Scottish-born inventor and engineer, and ironmaster of New Jersey's Ringwood Ironworks during the Revolutionary War, was appointed as the first Geographer and Surveyor General of the Continental Army by George Washington on July 27, 1777. <sup>1</sup> In his reply from Ringwood, dated August 1, 1777, Erskine outlined the duties and difficulties he envisaged in such work:
+</p>
 
 >Your favour of the 28th Ult: concerning the Office of Geographer, I had the honour to receive yesterday at Pompton. The distinction you confer on me, I beg leave to acknowledge with gratitude; and shall be happy to render every service in my power, to your Excellency, and to the Cause in which the rights of humanity are so deeply interested: on these accounts it is necessary to be explicit; both by laying before you my Ideas of the whole subject at once; and likewise by setting forth, how much time and attention I can immediately bestow on the proposed department.
 
@@ -36,15 +38,15 @@ One of the great instrument-makers of the seventeenth century, English mathemati
 
 {% assign dir = "intro" %}
 {% assign id = "1653-gunter-table" %}
-{% assign title = "Gunter's table for chain measurements. Centesme is one one-hundredth of a chain (7.92 inches). Perch is equivalent to the more standard term rod, or one quarter of a chain. Pace is the distance of a stride (every other step), standardized as five feet." %}
+{% assign title = "Gunter's table for chain measurements. Centesme is one one-hundredth of a chain (7.92 inches). &quot;Perch&quot; is equivalent to the more standard term rod, or one quarter of a chain. &quot;Pace&quot; is the distance of a stride (every other step), standardized as five feet." %}
 {% include figure.html %}
-
-John Love (active 1688). _The Whole Art of Surveying and Measuring of Land Made Easie. Shewing, by Plain and Practical Rules, How to Survey, Protract, Cast Up, Reduce or Divide Any Piece of Land Whatsoever; with New Tables for the Ease of the Surveyor in Reducing the Measures of Land. Moreover, a More Easie and Sure Way of Surveying by the Chain, Than Has Hitherto Been Taught. As Also, How to Lay Out New Lands in America, or Elsewhere; to Make a Perfect Map of a River's Mouth or Harbour; with Several Other Things Never Yet Published in Our Language_ (London: W. Taylor, 1716) [Rare Books Division]. The third edition, with additions.
 
 {% assign dir = "intro" %}
 {% assign id = "1716-love-title-page" %}
 {% assign title = "Title page. This was the bible of early American surveyors, including George Washington, who used the eighth edition (Geodæsia: or, The Art of Surveying, 1768).A Colonial surveyor in Carolina and Jamaica, Love saw firsthand the problems of men who were taking up grants of land in America without adequate surveying knowledge." %}
 {% include figure-left.html %}
+John Love (active 1688). _The Whole Art of Surveying and Measuring of Land Made Easie. Shewing, by Plain and Practical Rules, How to Survey, Protract, Cast Up, Reduce or Divide Any Piece of Land Whatsoever; with New Tables for the Ease of the Surveyor in Reducing the Measures of Land. Moreover, a More Easie and Sure Way of Surveying by the Chain, Than Has Hitherto Been Taught. As Also, How to Lay Out New Lands in America, or Elsewhere; to Make a Perfect Map of a River's Mouth or Harbour; with Several Other Things Never Yet Published in Our Language_ (London: W. Taylor, 1716) [Rare Books Division]. The third edition, with additions.
+
 >[I]f you ask, why I write a book of this nature, since we have so many very good ones already in our own Language? I answer, because I cannot find in those Books, many things, of great consequence, to be understood by the Surveyor. I have seen Young men, in _America_, often nonplus'd so, that their Books would not help them forward, particularly in _Carolina_, about Laying out Lands, when a certain quantity of Acres has been given to be laid out five or six times as broad as long. This I know is to be laught at by a Mathematician; yet to such as have no more of this Learning, than to know how to Measure a Field, it seems a difficult Question: And to what Book already Printed of Surveying shall they repair to, to be resolved? [from Love's preface].
 
 He published the first edition in 1688, simplifying the process with clear rules and procedures. There are chapters on geometrical definitions and problems, instruments and their uses, diverse ways to take the plot of lands, how to calculate acreage, how to lay out, reduce, and divide plots of land, and trigonometry. Instructions are given in using Gunter's chain and measuring angles with the circumferentor, plane table, and semicircle. The text is illustrated with numerous examples and, in this edition, includes "A Table of Sines and Tangents to Every Fifth Minute of the Quadrant." Later editions of the book appeared for more than a century; the twelfth (1793) and thirteenth (1796) editions were published in New York. The work changed little over the years, even considering the later revisions of Samuel Clark.
@@ -98,22 +100,26 @@ With this wheelbarrow-like instrument—not much different in function from toda
 
 ###Sample Survey
 
+<div class="left">
+	<img src="../njmaps/assets/img/2014-brearley-house.png" alt="">
+	<div class="caption">2014: The Brearley House today (third house from the left on the map).</div>
+</div>
 {% assign dir = "intro" %}
 {% assign id = "1749-brearley-yard-survey" %}
 {% assign title = "Joseph Yard. Survey of James Clarke and David Brearley lots near the Stony Brook, dated December 2, 1749 [Clarke Family of New Jersey Collection, Manuscripts Division]. Manuscript map on paper, 15.5 × 27 cm. Notice that the lengths are given in number of chains and links between posts and trees." %}
 {% include figure.html %} 
 
-{% assign dir = "background" %}
-{% assign id = "2014-province-road" %}
-{% assign title = "2014: The three lots are located in Princeton Township, on the northwest side of Route 206 (Stockton Street) before it crosses the Stony Brook Bridge from Princeton. (The bend is still in the road.) The Brearley house on the map is now 487 Stockton Street.4 David Brearley (d. 1785), Clarke's brother-in-law, was the father of David Brearley (1745-1790, usually spelled Brearly), signer of the Constitution and chief justice of the New Jersey Supreme Court." %}
-{% include figure.html %}
+The three lots are located in Princeton Township, on the northwest side of Route 206 (Stockton Street) before it crosses the Stony Brook Bridge from Princeton. (The bend is still in the road.) The Brearley house on the map is now 487 Stockton Street.<sup>4</sup> David Brearley (d. 1785), Clarke's brother-in-law, was the father of David Brearley (1745-1790, usually spelled Brearly), signer of the Constitution and chief justice of the New Jersey Supreme Court.
 
 ---
+<div class="footnotes">
 
-<small><sup>1</sup> Erskine would go on to create approximately 275 detailed maps for Washington, covering the northern regions of the country (many can be found at the New York Historical Society). He also ensured that Ringwood Ironworks provided Washington's army with much needed munitions and other materials.</small>
+    <small><sup>1</sup> Erskine would go on to create approximately 275 detailed maps for Washington, covering the northern regions of the country (many can be found at the New York Historical Society). He also ensured that Ringwood Ironworks provided Washington's army with much needed munitions and other materials.</small>
 
-<small><sup>2</sup> George Washington, _The Papers of George Washington: Revolutionary War Series_ (2000), vol. 10, pp. 476–478.</small>
+    <small><sup>2</sup> George Washington, <em>The Papers of George Washington: Revolutionary War Series</em> (2000), vol. 10, pp. 476–478.</small>
 
-<small><sup>3</sup> Harrington Bates, _How 'Tis Done_ (1879), p. 21.</small>
+    <small><sup>3</sup> Harrington Bates, <em>How 'Tis Done</em> (1879), p. 21.</small>
 
-<small><sup>4</sup> Thanks to Wanda S. Gunning for pointing this out.</small>
+    <small><sup>4</sup> Thanks to Wanda S. Gunning for pointing this out.</small>
+
+</div>

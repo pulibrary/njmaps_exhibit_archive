@@ -20,36 +20,40 @@ title: Mercer County
 
 {% assign dir = "mercer" %}
 {% assign id = "wallmap-mercer-county-1849" %}
-{% assign title = "1849: County Wall Map. J. W. Otley and J. Keily. &quot;Map of Mercer County, New Jersey Entirely from Original Surveys&quot; (Camden, N.J.: L. van der Veer, 1849) [Historic Maps Collection]. Wall map, with ornamental border and added color, 78 × 99 cm. Scale: 1 mile to 1.5 inches." %}
+{% assign title = "J. W. Otley and J. Keily. &quot;Map of Mercer County, New Jersey Entirely from Original Surveys&quot; (Camden, N.J.: L. van der Veer, 1849) [Historic Maps Collection]. Wall map, with ornamental border and added color, 78 × 99 cm. Scale: 1 mile to 1.5 inches." %}
 {% include figure.html %}
-_First wall map of Mercer County_. It includes inset maps of Trenton and Princeton Borough. Green, yellow, pink, blue, and orange colors distinguish the eight townships—East Windsor, Ewing, Hamilton, Hopewell, Lawrence, Nottingham, Princeton, West Windsor—and the incorporated city of Trenton. (Absorbed by the city, the township of Trenton was dissolved in 1837.) Engravings of the Lawrenceville High School (today's private school) and Princeton College (Princeton University), as well as the "State Lunatic Asylum" and state capitol, grace the top and sides of the map. "Pleasant Valley" labels a central fertile region of Hopewell Township; dual town names in Hamilton Township, such as "Mercerville or Sandtown" and "Yardville or Sand Hills," suggest a less productive topography. Longitude is measured east from Washington, D.C.
+<p class="dropCap">
+	First wall map of Mercer County. It includes inset maps of Trenton and Princeton Borough. Green, yellow, pink, blue, and orange colors distinguish the eight townships—East Windsor, Ewing, Hamilton, Hopewell, Lawrence, Nottingham, Princeton, West Windsor—and the incorporated city of Trenton. (Absorbed by the city, the township of Trenton was dissolved in 1837.) Engravings of the Lawrenceville High School (today's private school) and Princeton College (Princeton University), as well as the "State Lunatic Asylum" and state capitol, grace the top and sides of the map. "Pleasant Valley" labels a central fertile region of Hopewell Township; dual town names in Hamilton Township, such as "Mercerville or Sandtown" and "Yardville or Sand Hills," suggest a less productive topography. Longitude is measured east from Washington, D.C.
+</p>
 
 {% assign dir = "mercer" %}
 {% assign id = "2013-capitol-building-trenton" %}
 {% assign title = "2013: View of the West State Street side of the New Jersey State Capitol" %}
 {% include figure-right.html %}
 A key provides abbreviations for locating schoolhouses, sawmills, gristmills, churches, and the shops of blacksmiths and wheelwrights. A statistical table gives the area of each municipality in both square miles and acres. Unfurling as if written on a scroll, the descriptive text notes the richness of the area's soil and the national importance of its two flourishing "literary" institutions—and boasts that "Two battles (memorable for turning the tide of the American Revolution) were fought within these limits." The references are to the Battle of Trenton (December 26, 1776) and the Battle of Princeton (January 3, 1777). To surprise the British at Trenton, General George Washington and his army crossed the Delaware River from Pennsylvania during the night of December 25, 1776, near where the bridge joining Taylor's Ville, Pennsylvania, with Bernardville, New Jersey, is shown on the map. Washington's victory in the battle was a turning point in the American Revolution.
-
-{% assign dir = "mercer" %}
-{% assign id = "2013-washington-crossing-delaware" %}
-{% assign title = "2013: Washington's Crossing. An annual reenactment of that crossing takes place each Christmas Day afternoon, weather permitting, attracting thousands of onlookers. In this photograph, General Washington (with the blue sash) successfully reaches the New Jersey shore on December 25, 2013." %}
-{% include figure-left.html %}
-The location of the Battle of Princeton is shown on the map near where the Princeton Turnpike enters the pink of Princeton Township.
-
 {% assign dir = "mercer" %}
 {% assign id = "2013-princeton-battlefield" %}
 {% assign title = "2013: Princeton Battlefield. View from the Princeton Battle Monument, looking down across Princeton Pike to the Thomas Clarke House in the distance. Leading a vanguard of soldiers en route to Princeton, American General Hugh Mercer encountered several British regiments, and a fight broke out. Surrounded but refusing to surrender, Mercer was repeatedly bayoneted and left for dead. Washington arrived, rallied the retreating men, and successfully repulsed the enemy force: his first victory on the field against British soldiers. Found still alive, Mercer was carried to the Clarke House, where he died nine days later." %}
+{% include figure-left.html %}
+{% assign dir = "mercer" %}
+{% assign id = "2013-washington-crossing-delaware" %}
+{% assign title = "2013: Washington's Crossing. An annual reenactment of that crossing takes place each Christmas Day afternoon, weather permitting, attracting thousands of onlookers. In this photograph, General Washington (with the blue sash) successfully reaches the New Jersey shore on December 25, 2013." %}
 {% include figure.html %}
-
 {% assign dir = "mercer" %}
 {% assign id = "2013-princeton-battlefield-militia" %}
 {% assign title = "2013: Reenactors in British and American military dress honor the fallen with memorial volleys on New Year's Day, 2014. They stand next to the Mercer Oak on the battlefield, where legend says the severely wounded general lay while the fighting continued. (The current tree is a descendant of the original, which was felled by strong winds in 2000.)" %}
 {% include figure-left.html %}
+The location of the Battle of Princeton is shown on the map near where the Princeton Turnpike enters the pink of Princeton Township.
+
 All town and village names appear in bold capital letters on the map. Though shrunken in territory, Nottingham Township, shown in orange below Trenton, was one of the initial set of townships created by the state in 1798. In ensuing years, however, parts of it were annexed by neighboring townships, and Hamilton Township was created from other portions of it in 1842. Finally, in 1856, the township was dissolved, with the remaining area divided between the city of Trenton and Hamilton Township. The Straight Turnpike, seen running diagonally northeast across the center of the map from Trenton, is today's Route 1. Almost perfectly straight, it was constructed with drainage ditches and wooden bridges by the Trenton and New Brunswick Straight Turnpike Company (1804–1806). (See its continuation to New Brunswick in the Middlesex County map.) As a primary conduit between the cities of New York and Philadelphia, it became the nation's busiest road during its early history.
 
 The Trenton Water Power Canal features prominently in the detailed map of Trenton at the lower left. The project of the Trenton Delaware Falls Company, the seven-mile canal was finished in 1834, fueling industrial development by providing power to mills along its length. Its greatest engineering achievement was a masonry and timber aqueduct over the Assunpink Creek.
 
-**1868:** Bridge over Assunpink Creek at Trenton, N.J. This spot is one of much historic interest. Here it was, in all probability, that the fate of the American Revolution was decided. Had the British troops effected their passage across the bridge then standing on this spot it seems hardly possible that Washington could have effected the masterly movement to Princeton which saved his army.<sup>1</sup>
+{% assign dir = "mercer" %}
+{% assign id = "1868-assunpink-bridge" %}
+{% assign title = "" %}
+{% include figure-right.html %}
+>**1868:** Bridge over Assunpink Creek at Trenton, N.J. This spot is one of much historic interest. Here it was, in all probability, that the fate of the American Revolution was decided. Had the British troops effected their passage across the bridge then standing on this spot it seems hardly possible that Washington could have effected the masterly movement to Princeton which saved his army.<sup>1</sup>
 
 This is a reference to events during the Second Battle of Trenton, which took place on January 2, 1777, a week after Washington's successful surprise attack on the sleeping Hessians. During this second battle, three different British assaults on the Assunpink bridge were repulsed by American fire, delaying the major engagement. Washington was able to withdraw his forces under cover of night and met the British in Princeton the next day.
 
@@ -57,7 +61,7 @@ This is a reference to events during the Second Battle of Trenton, which took pl
 
 {% assign dir = "mercer" %}
 {% assign id = "1852-princeton-wall-map" %}
-{% assign title = "1852: Borough Wall Map. John Bevan. &quot;Map of Princeton, Mercer County, New Jersey&quot; (Jersey City, N.J.: John Bevan, 1852) [Historic Maps Collection]. Wall map, with ornamental border and added color, 37 × 72 cm, on sheet 75 × 95 cm. Scale: 400 feet to 1 inch. One of six known institutional copies." %}
+{% assign title = "John Bevan. &quot;Map of Princeton, Mercer County, New Jersey&quot; (Jersey City, N.J.: John Bevan, 1852) [Historic Maps Collection]. Wall map, with ornamental border and added color, 37 × 72 cm, on sheet 75 × 95 cm. Scale: 400 feet to 1 inch. One of six known institutional copies." %}
 {% include figure-right.html %}
 {% assign dir = "mercer" %}
 {% assign id = "2013-nassau-hall" %}
@@ -73,7 +77,7 @@ The subscribers' list on the right of the map provides a cross section of the co
 
 {% assign dir = "mercer" %}
 {% assign id = "1874-trenton-wall-map" %}
-{% assign title = "1874: City Bird's-Eye View. Fowler & Bailey. &quot;Trenton, New Jersey&quot; (Philadelphia: H. J. Toudy & Co., 1874) [Historic Maps Collection]. Lithograph view, 58 × 81 cm. Scale: none given." %}
+{% assign title = "Fowler & Bailey. &quot;Trenton, New Jersey&quot; (Philadelphia: H. J. Toudy & Co., 1874) [Historic Maps Collection]. Lithograph view, 58 × 81 cm. Scale: none given." %}
 {% include figure-right.html %}
 _First panoramic map of Trenton._ Thaddeus Mortimer Fowler (1842–1922) was probably the most prolific maker of bird's-eye views of American cities, with more than four hundred to his credit, covering twenty-one states and three Canadian provinces. Fowler lived in Trenton for part of his life and is buried in its Riverview Cemetery. The heyday of this map form was the post–Civil War era, up to the early twentieth century. Viewed from above at an oblique angle, the areas shown in these maps are not drawn to scale—rather, the maps emphasize street patterns, some individual buildings, and/or special landscape features. To accomplish the unique rendering, the artist first prepared a general frame of reference, possibly, in this case, drawing from the Trenton map in F. W. Beers's 1872 state atlas. He then would spend a considerable amount of time researching and walking the streets to render details accurately. These would be transferred, via the drafting technique of isometric projection, to the frame. Sometimes features were idealized to help local chambers of commerce portray their communities in an attractive and vibrant manner. These independently published maps were popular wall ornaments during the Victorian Age.
 
@@ -86,15 +90,15 @@ The key to this Trenton map locates many businesses, churches, and public buildi
 Engraved over the front door are these words:
 
 <div class="highlight">
-<p>LABOUR, SILENCE, PENITENCE.</p>
-<p>The Penitentiary House</p>
-<p>Erected by <em>LEGISLATIVE</em> Authority</p>
-<p><em>RICHARD HOWELL</em>, Governor</p>
-<p>In the XXII Year of Amer<sup>n</sup> Independence</p>
-<p>MDCCXCVII</p>
-<p>That those who are feared for their Crimes</p>
-<p>May learn to fear the Laws and be useful</p>
-<p>Hic labor hoc opus!</p>
+<p class="center">LABOUR, SILENCE, PENITENCE.</p>
+<p class="center">The Penitentiary House</p>
+<p class="center">Erected by <em>LEGISLATIVE</em> Authority</p>
+<p class="center"><em>RICHARD HOWELL</em>, Governor</p>
+<p class="center">In the XXII Year of Amer<sup>n</sup> Independence</p>
+<p class="center">MDCCXCVII</p>
+<p class="center">That those who are feared for their Crimes</p>
+<p class="center">May learn to fear the Laws and be useful</p>
+<p class="center">Hic labor hoc opus!</p>
 </div>
 
 The shortened quote from Virgil's _Aeneid_—"Hoc opus, hic labor est" (This is the task and the labor)—probably reflects the practical Quaker workhouse sentiment of the time, acknowledging the difficult "climb" reformed criminals must make from their "descent" into sin. ("There's the rub.")
@@ -128,16 +132,17 @@ The eight townships are colored pink, green, or yellow: East Windsor, Ewing, Ham
 {% include figure-right.html %}
 The map shows no major center or "downtown" area in the township; rather, there are clusters of settlements, most notably in the Mercerville–Hamilton Square and Yardville–Groveville regions. The Delaware River to the west, Crosswicks Creek to the south, and Assunpink Creek on the north provide natural boundaries. Numerous landowners are named and located—beside their names are numbers indicating the size (in acres) of their farms.
 
+<h1 class="fancy nobg">◊ ◊ ◊</h1>
+
+{% assign dir = "mercer" %}
+{% assign id = "2013-groveville-buildings-today" %}
+{% assign title = "2013: Some manufacturing buildings survive around Groveville's Anchor Thread Park." %}
+{% include figure-left.html %}
 {% assign dir = "mercer" %}
 {% assign id = "1875-groveville" %}
 {% assign title = "&quot;Bird's-Eye View of Groveville&quot; (1875)" %}
 {% include figure.html %}
 >**1834:** _**Groveville**_, village of Nottingham t-ship, Burlington co., in a bend of the Crosswick's creek, . . . contains a large woolen manufactory, a grist and saw mill, and 10 or 12 houses. The creek is navigable from the Delaware to the village, a distance of more than six miles [Gordon, p. 153].
-
-{% assign dir = "mercer" %}
-{% assign id = "2013-groveville-buildings-today" %}
-{% assign title = "2013: Some manufacturing buildings survive around Groveville's Anchor Thread Park." %}
-{% include figure.html %}
 
 <h1 class="fancy nobg">◊ ◊ ◊</h1>
 
@@ -153,5 +158,6 @@ Perhaps the biggest changes since 1852 (date of the wall map) are evident in the
 {% include figure.html %}
 
 ---
-
-<small><sup>1</sup> Barber, p. 288</small>
+<div class="footnotes">
+    <small><sup>1</sup> Barber, p. 288</small>
+</div>

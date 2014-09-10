@@ -20,18 +20,19 @@ title: Bergen County
 
 {% assign dir = "bergen" %}
 {% assign id = "1861-bergen-county-wall-map" %}
-{% assign title = "Griffith Morgan Hopkins, Jr. &quot;Map of the Counties of Bergen and Passaic, New Jersey: From Actual Surveys&quot; (Philadelphia: G. H. Corey, Publisher, 1861) [Library of Congress]. Wall map, with ornamental border and added color, 139 × 113 cm. Scale: 1 mile to 1.5 inches. (also covers Passaic County)" %}
+{% assign title = "Griffith Morgan Hopkins, Jr. &quot;Map of the Counties of Bergen and Passaic, New Jersey: From Actual Surveys&quot; (Philadelphia: G. H. Corey, Publisher, 1861) [Library of Congress]. Wall map, with ornamental border and added color, 139 × 113 cm. Scale: 1 mile to 1.5 inches." %}
 {% include figure.html %}
-_First wall map of Bergen County._ A thick pink line marks its border with Passaic County. At this time, Bergen had nine townships, colored blue, yellow, green, or pink: Franklin, Hackensack, Harrington, Hohokus, Lodi, New Barbadoes, Saddle River, Union, and Washington. At top right and bottom left, there are detailed insets of the three major cities of Paterson and Passaic (Passaic County), and Hackensack (Bergen County). Smaller insets (with no scales given) of twelve other boroughs/villages circle the central map (_in clockwise order_): Little Falls (P), Godwinville (B), Carlstadt (B), Bloomingdale (P), Lodi (B), Pascack (B), Hohokus (B), Englewood (B), Charlotteburg (P), Fort Lee (B), Pascack (B), West Milford (P), and Pompton Furnace (P). (The plan of Pascack appears twice.) City business directories are provided for Paterson, Carlstadt, and Passaic. Rivers, roads, and railroad lines radiate across the rudimentary topography—relief is shown by hachures, wetlands by symbols of grass growing out of water. The map locates numerous Civil War–era landowners.
+<p class="dropCap">
+	First wall map of Bergen County. A thick pink line marks its border with Passaic County. At this time, Bergen had nine townships, colored blue, yellow, green, or pink: Franklin, Hackensack, Harrington, Hohokus, Lodi, New Barbadoes, Saddle River, Union, and Washington. At top right and bottom left, there are detailed insets of the three major cities of Paterson and Passaic (Passaic County), and Hackensack (Bergen County). Smaller insets (with no scales given) of twelve other boroughs/villages circle the central map (_in clockwise order_): Little Falls (P), Godwinville (B), Carlstadt (B), Bloomingdale (P), Lodi (B), Pascack (B), Hohokus (B), Englewood (B), Charlotteburg (P), Fort Lee (B), Pascack (B), West Milford (P), and Pompton Furnace (P). (The plan of Pascack appears twice.) City business directories are provided for Paterson, Carlstadt, and Passaic. Rivers, roads, and railroad lines radiate across the rudimentary topography—relief is shown by hachures, wetlands by symbols of grass growing out of water. The map locates numerous Civil War–era landowners.
+</p>
 
 {% assign dir = "bergen" %}
 {% assign id = "2013-palisades" %}
-{% assign title = "2013: Palisades" %}
+{% assign title = "2013: Palisades. A note in the Harrington Township area of the map describes the palisade ridge along the Hudson River as having &quot;an elevation of from 350 to 450 ft. at the River front affording very extensive views. The summit level is nearly half a mile wide, &amp; is accessible for Carriages at nearly all points. The western Slope is a succession of Terraces. The soil is good, abundantly watered &amp; generally well timbered.&quot; This first view looks up at the cliffs from the Palisades Interstate Park near the base of the George Washington Bridge; the other one looks north from the top of the Palisades at State Line Lookout near the New York State border." %}
 {% assign dir2 = "bergen" %}
 {% assign id2 = "2013-palisades2" %}
-{% assign title2 = "2013: Palisades. A note in the Harrington Township area of the map describes the palisade ridge along the Hudson River as having" %}
-{% include figure2.html %}
->"an elevation of from 350 to 450 ft. at the River front affording very extensive views. The summit level is nearly half a mile wide, & is accessible for Carriages at nearly all points. The western Slope is a succession of Terraces. The soil is good, abundantly watered & generally well timbered." This first view looks up at the cliffs from the Palisades Interstate Park near the base of the George Washington Bridge; the other one looks north from the top of the Palisades at State Line Lookout near the New York State border. [caption]
+{% assign title2 = "2013: Palisades. A note in the Harrington Township area of the map describes the palisade ridge along the Hudson River as having &quot;an elevation of from 350 to 450 ft. at the River front affording very extensive views. The summit level is nearly half a mile wide, &amp; is accessible for Carriages at nearly all points. The western Slope is a succession of Terraces. The soil is good, abundantly watered &amp; generally well timbered.&quot; This first view looks up at the cliffs from the Palisades Interstate Park near the base of the George Washington Bridge; the other one looks north from the top of the Palisades at State Line Lookout near the New York State border." %}
+{% include figure2-caption.html %}
 
 Next to the _H_ in "Hackensack" township, at the bottom right, lies English Neighborhood, today's Englewood. During the early colonial era, this was the first primarily English-speaking area on the New Jersey side of the Hudson River. In 1817, the first baseline of the U.S. Coast Survey, charged by Congress to chart the entire American coast, was run through English Neighborhood. (For more on the Survey's role in the geodetic surveying of New Jersey, see the prior discussion of the 1888 state atlas.)
 
@@ -87,11 +88,13 @@ The steep cliffs of the Palisades are shown extending all along the Hudson River
 {% assign dir2 = "bergen" %}
 {% assign id2 = "2013-george-washington-bridge2" %}
 {% assign title2 = "2013: George Washington Bridge.The world's busiest motor vehicle bridge, the George Washington Bridge (opened in 1931), links Manhattan to New Jersey at Fort Lee—roughly where the main thoroughfare, the Hackensack and Fort Lee Turnpike, if extended, would hit the "P" in "Palisades" on the map. The first view is taken from Fort Lee Historic Park, looking across the Hudson River to Manhattan. The other is from Hazard's Dock Boat Ramp underneath the bridge, showing the bridge entering New Jersey." %}
-{% include figure2.html %}  
+{% include figure2-caption.html %}  
+
+<h1 class="fancy nobg">◊ ◊ ◊</h1>
 
 {% assign dir = "bergen" %}
 {% assign id = "1876-bank-of-bergen-county" %}
-{% assign title = "Constructed in 1874, the building is considered today to be one of the best examples of Victorian Gothic architecture in the county. Currently, it is the Breslin Building, housing law offices." %}
+{% assign title = "&quot;Bank of Bergen County at Hackensack&quot; (1876)." %}
 {% assign dir2 = "bergen" %}
 {% assign id2 = "2013-hackensack-bank" %}
 {% assign title2 = "2013: Constructed in 1874, the building is considered today to be one of the best examples of Victorian Gothic architecture in the county. Currently, it is the Breslin Building, housing law offices." %}
@@ -106,5 +109,6 @@ The steep cliffs of the Palisades are shown extending all along the Hudson River
 Gordon uses a dotted line and a brown tint to identify the meadowlands of Bergen and Hudson Counties.
 
 ---
-
-<small><sup>1</sup> George H. Cook, _Report on a Survey of the Boundary Line between New Jersey and New York, Made in July and August, 1874_ (New Brunswick, N.J.: Terhune & Van Anglen's Press, 1874).</small>
+<div class="footnotes">
+    <small><sup>1</sup> George H. Cook, <em>Report on a Survey of the Boundary Line between New Jersey and New York, Made in July and August, 1874</em> (New Brunswick, N.J.: Terhune &amp; Van Anglen's Press, 1874).</small>
+</div>

@@ -20,9 +20,11 @@ title: Middlesex County
 
 {% assign dir = "middlesex" %}
 {% assign id = "1850-middlesex-county-wall-map2" %}
-{% assign title = "1850: County Wall Map. J. W. Otley. &quot;Map of Middlesex County, New Jersey Entirely from Original Surveys&quot; (Camden, N.J.: L. Van Derveer, 1850) [Library of Congress]. Wall map, with ornamental border, 95 × 95 cm. Scale: 1 mile to 1.5 inches." %}
+{% assign title = "J. W. Otley. &quot;Map of Middlesex County, New Jersey Entirely from Original Surveys&quot; (Camden, N.J.: L. Van Derveer, 1850) [Library of Congress]. Wall map, with ornamental border, 95 × 95 cm. Scale: 1 mile to 1.5 inches." %}
 {% include figure.html %} 
-_First wall map of Middlesex County._ It includes detailed plans of New Brunswick and Perth Amboy. Centered at the top in the border is an engraving of Rutgers College (New Brunswick), and an engraving of the Middlesex County Courthouse (New Brunswick) hovers over the title.
+<p class="dropCap">
+	First wall map of Middlesex County. It includes detailed plans of New Brunswick and Perth Amboy. Centered at the top in the border is an engraving of Rutgers College (New Brunswick), and an engraving of the Middlesex County Courthouse (New Brunswick) hovers over the title.
+</p>
 
 {% assign dir = "middlesex" %}
 {% assign id = "rutgers3" %}
@@ -82,5 +84,5 @@ A schoolhouse and four church properties are colored green. With a line just six
 
 {% assign dir = "middlesex" %}
 {% assign id = "2013-woodbridge-gristmill-site" %}
-{% assign title = "2013: Site of New Jersey's first gristmill. Dunham's mill was just south of his house (off the map), at the intersection of Woodbridge Creek and Point Reading Road." %}
+{% assign title = "2013: Site of New Jersey's first gristmill. Dunham's mill was just south of his house, at the intersection of Woodbridge Creek and Point Reading Road (off the map)." %}
 {% include figure.html %} 

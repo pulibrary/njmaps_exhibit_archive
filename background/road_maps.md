@@ -9,7 +9,9 @@ title: Road Maps (1762, 1766, 1781, 1802)
 
 ###Road Maps
 
-For New Jersey, situated between two of the nation's most important commercial centers, Philadelphia and New York, roads were essential to its development, even after canals and railroads provided alternative modes for transporting goods. The early precursors of today's in-car GPS systems—or the ubiquitous oil company road maps of the twentieth century—were simple manuscript maps created by colonial surveyors, which were copied but rarely printed.
+<p class="dropCap">
+	For New Jersey, situated between two of the nation's most important commercial centers, Philadelphia and New York, roads were essential to its development, even after canals and railroads provided alternative modes for transporting goods. The early precursors of today's in-car GPS systems—or the ubiquitous oil company road maps of the twentieth century—were simple manuscript maps created by colonial surveyors, which were copied but rarely printed.
+</p>
 
 {% assign dir = "background" %}
 {% assign id = "1762-road-map" %}
@@ -19,23 +21,27 @@ A major road in eighteenth-century New Jersey, running northeast from Trenton on
 
 One can follow the itinerary today by taking Route 206 from Trenton to Princeton, Route 27 from Princeton through New Brunswick to Woodbridge Avenue (County Road 514), then Amboy Avenue (County Road 616) into Perth Amboy.
 
+<h1 class="fancy nobg">◊ ◊ ◊</h1>
+
 {% assign dir = "background" %}
 {% assign id = "1766-road-map1" %}
 {% assign title = "1766: Azariah Dunham (1718–1790). &quot;A Map of the Division Line between the Counties of Middlesex & Somerset Protracted by a Scale of Twenty Chains to an Inch ... by Azariah Dunham&quot; [Manuscripts Division]. Manuscript map, pen-and-ink on paper, with some wash color, 30.5 × 183.4 cm. Scale: 20 chains to 1 inch." %}
 {% assign dir2 = "background" %}
 {% assign id2 = "1766-road-map2" %}
 {% assign title2 = "1766: Azariah Dunham (1718–1790). &quot;A Map of the Division Line between the Counties of Middlesex & Somerset Protracted by a Scale of Twenty Chains to an Inch ... by Azariah Dunham&quot; [Manuscripts Division]. Manuscript map, pen-and-ink on paper, with some wash color, 30.5 × 183.4 cm. Scale: 20 chains to 1 inch. [Mark: in 2 pieces]" %}
-{% include figure2.html %}
+{% include figure2-caption.html %}
 In 1765, Azariah Dunham was appointed surveyor of the line between the two counties, which essentially followed an old Indian path. Much of it is similar to Dalley's map, but the scale is much greater. (Several trees—"Apple Tree," "Hickory Tree"—are noted.) The petition requesting the survey stated that the line of the old road was unreliable due to people altering it.
 
 Dunham later became a member of the Middlesex Committee of Observation, a patriots' group active in the Revolutionary War. The importance and utility of the road would soon become apparent:
 
 >At 2 o'clock on the morning of April 24, 1775, an express rider brought to New Brunswick an account of the events which had taken place at Lexington and Concord on the 19th. Azariah Dunham was one of the three Committee members who received the news and forwarded it to Princeton. Their express rider, proceeding along the road shown on Dunham's own map, reached Princeton at 6 o'clock. By 9 o'clock the Princeton rider in turn brought the news to Trenton, where another Committee relayed it to Philadelphia.<sup>1</sup>
 
+<h1 class="fancy nobg">◊ ◊ ◊</h1>
+
 {% assign dir = "background" %}
 {% assign id = "1781-berthier-map" %}
-{% assign title = "1781: Louis-Alexandre Berthier (1753–1815). &quot;Buillion's Tavern to Sumerset Court House&quot; [Manuscripts Division]. Manuscript map, with added color, sheet 22.5 × 29 cm." %}
-{% include figure-left.html %}
+{% assign title = "1781: Louis-Alexandre Berthier (1753–1815). &quot;de Buillon's tavern à Summerset court house&quot; [Manuscripts Division]. Manuscript map, with added color, sheet 22.5 × 29 cm. " %}
+{% include figure.html %}
 Berthier was a young, expert military cartographer in the French army of General Rochambeau which had been sent to America in 1780 to support the Continental Army under General Washington. (Rochambeau actually commanded more troops than Washington.) Rochambeau's forces finally joined Washington's north of New York City in July 1781, where they began a long march to Yorktown, Virginia, hoping to coordinate a siege of the large British force stationed there under General Cornwallis with a French fleet commanded by Admiral de Grasse. Berthier was charged with creating on-the-spot sketches of the French soldiers' march to Virginia. These field drawings were later "improved." The finished maps, in pen-and-ink with watercolor touches, provide an official record of the campaign. From the complete series, six cover the route the army took across the territory of New Jersey, from Suffern, New York, to Trenton, New Jersey. Berthier would go on to become Napoleon's chief of staff.
 
 This map covers a day's march of thirteen miles. The major obstacle was a steep and long climb over Second Watchung Mountain ("_montagne très roide et très longue à monter_"), north of today's Martinsville. The descent from First Watchung Mountain down into the Raritan Valley was via Steele's Gap, still known today. It provided a broad prospect to American scouts during earlier years, for no British troop movements could go undetected. The "Vinvington house" is the Van Veghten House in Bridgewater, present home of the Somerset County Historical Society.
@@ -50,6 +56,8 @@ This map covers a day's march of thirteen miles. The major obstacle was a steep 
 {% assign title = "2013: Van Veghten House near the Raritan River (front view). One can try to imagine several thousand French soldiers streaming past this house on the day of August 30, 1781: young men whose actions would contribute to the surrender of Cornwallis at Yorktown, the site of the climactic battle of the American Revolution on October 19, 1781, ending the American struggle for independence.<sup>2</sup>" %}
 {% include figure.html %}
 Somerset Courthouse is now the borough of Millstone, situated on the river of the same name.
+
+<h1 class="fancy nobg">◊ ◊ ◊</h1>
 
 {% assign dir = "background" %}
 {% assign id = "1802-title-page" %}
@@ -75,6 +83,8 @@ On his inaugural tour from Monticello to New York City, George Washington lodged
 
 ---
 
-<small><sup>1</sup> Howard C. Rice, _New Jersey Road Maps_ (1970), sec. 2 (unpaginated).</small>
+<div class="footnotes">
+    <small><sup>1</sup> Howard C. Rice, <em>New Jersey Road Maps</em> (1970), sec. 2 (unpaginated).</small>
 
-<small><sup>2</sup> That Thursday was an auspicious day, for the troops learned then of their true mission. From the journal of the French officer Clermont-Crèvecœur: "From Bullion's Tavern to Somerset Courthouse the roads were superb and traveling was easy. We finally realized that we were leaving New York behind and marching to the Delaware, the river that flows past Philadelphia. We learned that M. de Rochambeau had just received a letter from the Marquis de Lafayette, commanding 1,500 troops in Virginia, saying that Lord Cornwallis had retired to York on the river of that name where he had entrenched himself. The plan of the campaign was at last unveiled, for it was now clear that we were marching against this general, though many happy events had yet to occur before this splendid operation was concluded" [quoted in Howard C. Rice, _The American Campaigns of Rochambeau's Army_ (1972), vol. 1, p. 43].</small>
+    <small><sup>2</sup> That Thursday was an auspicious day, for the troops learned then of their true mission. From the journal of the French officer Clermont-Crèvecœur: "From Bullion's Tavern to Somerset Courthouse the roads were superb and traveling was easy. We finally realized that we were leaving New York behind and marching to the Delaware, the river that flows past Philadelphia. We learned that M. de Rochambeau had just received a letter from the Marquis de Lafayette, commanding 1,500 troops in Virginia, saying that Lord Cornwallis had retired to York on the river of that name where he had entrenched himself. The plan of the campaign was at last unveiled, for it was now clear that we were marching against this general, though many happy events had yet to occur before this splendid operation was concluded" [quoted in Howard C. Rice, <em>The American Campaigns of Rochambeau's Army</em> (1972), vol. 1, p. 43].</small>
+</div>

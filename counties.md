@@ -7,15 +7,20 @@ title: New Jersey Counties&#58; First Wall Maps and Atlases (1849–1882)
 
 #New Jersey Counties: First Wall Maps and Atlases (1849–1882)
 
-According to the pioneer Library of Congress map librarian Walter Ristow, wall maps<sup>1</sup> were the most common county map format in the decade before the Civil War: some 350 were published with great detail, including the names of property owners and their locations. But their large size was self-defeating, leading to wear, deterioration, and attrition. Hence, the tremendous popularity of county atlases, which blossomed in the 1860s, 1870s, and 1880s, as cartographers followed the expansion of the country westward.
+<p class="dropCap">
+	According to the pioneer Library of Congress map librarian Walter Ristow, wall maps<sup>1</sup> were the most common county map format in the decade before the Civil War: some 350 were published with great detail, including the names of property owners and their locations. But their large size was self-defeating, leading to wear, deterioration, and attrition. Hence, the tremendous popularity of county atlases, which blossomed in the 1860s, 1870s, and 1880s, as cartographers followed the expansion of the country westward.
+</p>
 
-Despite their limitations and inaccuracies, nineteenth-century county atlases nonetheless preserve a detailed cartographical, biographical, and pictorial record of a large segment of rural America in the Victorian age.<sup>2</sup>
+>Despite their limitations and inaccuracies, nineteenth-century county atlases nonetheless preserve a detailed cartographical, biographical, and pictorial record of a large segment of rural America in the Victorian age.<sup>2</sup>
 
 The county atlas was a unique American cartographic format, usually subsidized through local subscription. The payoff would be an engraving of the subscriber's farm or business establishment as pictorial enhancement of the town maps: it was a clever arrangement that provided ready-made publicity and customers. All of this was a logical expansion of the business model already developed for earlier wall maps.
 
 Harrington Bates's _How 'Tis Done_ (1879) is a blistering exposé of the map publishers' business strategy in the making of these nineteenth-century county maps and atlases. "In nearly every portion of the Eastern, Middle and Western States the people have been made to pay a mighty tribute to the map, atlas, and county history schemes" [Bates, p. 11]. Though the wall map and county atlas businesses began in the East, Bates draws heavily on midwestern examples, particularly maps and atlases of Illinois and Iowa. He groups map canvassers with snake oil peddlers. The scheme they used was as predictable, he says, as it was profitable. Enlist official endorsements. Get the local Board of Supervisors to buy a copy of the map/atlas for each county and township officer. Secure newspaper advertising that promoted the public benefit of the project. Convince prominent citizens of the usefulness of the map/atlas in promoting the beauty and business opportunities of their localities. Use their testimonials in print advertising and in word-of-mouth publicity. Send out well-dressed, smooth-talking canvassers to solicit the farmers and merchants who, by then, had already heard positive news of the project. Obtain subscriptions by flattering them about their farm/business and by showing them how their neighbors will be envious of the detailed, idealized engravings they order. Make price an afterthought.
 
-Illustration of canvasser selling a county atlas to a farmer [Bates, p. 65].
+<div>
+	<img src="../njmaps/assets/img/bates-county-atlas-canvasser.png" alt="Illustration of canvasser selling a county atlas to a farmer">
+	<div class="caption">Illustration of canvasser selling a county atlas to a farmer [Bates, p. 65].<br><br></div>
+</div>
 
 The profits to the publisher could be substantial. Bates gives examples of both a county wall map's production expenses and subscription revenues and a county atlas's balance sheet:
 
@@ -67,7 +72,8 @@ For New Jersey, the first county wall maps were published between 1849 and 1872.
 </ul>
 
 ---
+<div class="footnotes">
+	<small><sup>1</sup> Large-scale maps—usually three feet by four feet or larger—meant to be displayed on a wall, not bound into an atlas.</small>
 
-<small><sup>1</sup> Large-scale maps—usually three feet by four feet or larger—meant to be displayed on a wall, not bound into an atlas.</small>
-
-<small><sup>2</sup> Walter W. Ristow, _American Maps and Mapmakers_ (1985), p. 424. By his account, over seven hundred county atlases were published between 1862 and 1886. During the peak year, 1875, almost one hundred of these atlases appeared.</small>
+	<small><sup>2</sup> Walter W. Ristow, <em>American Maps and Mapmakers</em> (1985), p. 424. By his account, over seven hundred county atlases were published between 1862 and 1886. During the peak year, 1875, almost one hundred of these atlases appeared.</small>
+</div>

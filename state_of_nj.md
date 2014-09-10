@@ -7,12 +7,14 @@ title: State of New Jersey&#58; First Wall Maps and Atlases (1812–1888)
 
 #State of New Jersey: First Wall Maps and Atlases (1812–1888)
 
-_First wall map of the state and the first map to show all of its townships_. A number of those townships are outlined in color, as are the thirteen counties (named in large capital letters): Bergen, Burlington, Cape May, Cumberland, Essex, Gloucester, Hunterdon, Middlesex, Monmouth, Morris, Salem, Somerset, and Sussex. Occasionally, a personal residence is named, such as "Witherspoon's" between Rocky Hill and Princeton in Montgomery Township. This one refers to the home of John Witherspoon (1723–1794), a former president of the College of New Jersey (Princeton University.) At the top left, Watson has placed a large representation of the state seal, and he dedicates his map to Joseph Bloomfield, the state's fourth governor, whose term ended in 1812. Longitude is shown east and west from Philadelphia.
-
 {% assign dir = "intro" %}
 {% assign id = "1812-watson-state-map" %}
 {% assign title = "1812: William Watson. &quot;A Map of the State of New Jersey. To His Excellency, Joseph Bloomfield, Governor, the Council and Assembly of the State of New Jersey: This Map Is Respectfully Inscribed&quot; (Philadelphia: W. Harrison, September 25, 1812) [Historic Maps Collection]. Wall map, with added color, 99 × 67.7 cm. Scale: 4 miles to 1 inch. One of three known institutional copies." %}
 {% include figure.html %}
+<p class="dropCap">
+	First wall map of the state and the first map to show all of its townships. A number of those townships are outlined in color, as are the thirteen counties (named in large capital letters): Bergen, Burlington, Cape May, Cumberland, Essex, Gloucester, Hunterdon, Middlesex, Monmouth, Morris, Salem, Somerset, and Sussex. Occasionally, a personal residence is named, such as "Witherspoon's" between Rocky Hill and Princeton in Montgomery Township. This one refers to the home of John Witherspoon (1723–1794), a former president of the College of New Jersey (Princeton University.) At the top left, Watson has placed a large representation of the state seal, and he dedicates his map to Joseph Bloomfield, the state's fourth governor, whose term ended in 1812. Longitude is shown east and west from Philadelphia.
+</p>
+
 A period of five years separated the prospectus for the map, which had appeared in the _Trenton Federalist_, and its apparent completion: 
 
 <div class="highlight">
@@ -52,12 +54,12 @@ In the winter of 1778, storms opened a waterway between Sandy Hook and the mainl
 
 >When the battle ended, the British started marching to Sandy Hook, a distance of fifteen miles. . . The baggage, coaches, horses, mistresses, and plunder of the rich British officers stretched out 12 miles behind them. . . At their campsites [in the Navesink Highlands], the British soldiers had to wait a week for their fleet to reach Sandy Hook Bay in order to carry them to New York. Also, they could not move until a pontoon bridge was built over the breach (called "the gut") carved out by the ocean the previous winter near the base of Sandy Hook, turning it into an island. Beginning July 5, about 12,000 British and Hessian troops marched across the inlet and boarded ships anchored in the bay. The colorful embarkation was watched by local citizens on surrounding hills. . . <sup>4</sup>
 
-On the map in Gloucester County, a large rectangular box bears the title "West Society or Weymouth Company Tract." This area was purchased in 1800 from the West Jersey Society of Burlington by a group of Philadelphia businessmen wanting to establish a forge and furnace complex to smelt the local bog iron. The following year they got permission from the state to dam the Great Egg Harbor River, and iron production began in 1802. The Weymouth furnace/forge supplied shot and other material to the U.S. government during the War of 1812. In the 1850s, its peak period of production, the tract also included a church, a gristmill, a sawmill, workers' homes, and wheelwright and blacksmith shops. Later, paper mills operated in the area through the rest of the century.
-
 {% assign dir = "background" %}
 {% assign id = "2014-weymouth-furnace" %}
 {% assign title = "2014: The brick ruins of the old furnace are now part of Weymouth Furnace Park, which is run by Atlantic County." %}
 {% include figure-left.html %}
+On the map in Gloucester County, a large rectangular box bears the title "West Society or Weymouth Company Tract." This area was purchased in 1800 from the West Jersey Society of Burlington by a group of Philadelphia businessmen wanting to establish a forge and furnace complex to smelt the local bog iron. The following year they got permission from the state to dam the Great Egg Harbor River, and iron production began in 1802. The Weymouth furnace/forge supplied shot and other material to the U.S. government during the War of 1812. In the 1850s, its peak period of production, the tract also included a church, a gristmill, a sawmill, workers' homes, and wheelwright and blacksmith shops. Later, paper mills operated in the area through the rest of the century.
+
 The reception of Watson's map was less than favorable. In October 1811, Governor Bloomfield had asked the state legislature to approve the purchase of twenty-five copies, to be exchanged for similar maps from other states. The members unanimously agreed. However, after the finished copies were supplied in October 1813—owing, according to Watson, to a lengthy illness in the engraver's family—a legislative committee examining the map issued a report claiming that it was "materially deficient":
 
 >That in such part as professes to lay down the situation of counties, towns, stream, and even state boundaries, it is wholly incorrect. The boundaries of many counties are erroneously laid down—the situation of townships misplaced, and noted ponds, streams, &c. placed at great distances from their real situation. The committee are therefore of opinion, that the said Map is not worthy of being transmitted to the other States... <sup>5</sup>
@@ -128,9 +130,9 @@ A geological survey of New Jersey had begun in 1836–1840 under the direction o
 
 {% assign dir = "intro" %}
 {% assign id = "1868-state-geological-map" %}
-{% assign title = "1868: Geological Survey of New Jersey. Geology of New Jersey (Newark: Daily Advertiser Office, 1868) [Historic Maps Collection]. A nine hundred-page report, with a large geological map in the back pocket, accompanied by a portfolio of eight additional geological maps on twelve sheets, titled &quot;Geological Survey of New Jersey Maps.&quot; Several of the maps, in sections, have a scale of 2 miles to 1 inch." %}
+{% assign title = "1868: &quot;Geological Map of New Jersey.&quot; Large lithograph map, with added color, 88 × 64 cm. Scale: 5 miles to 1 inch. All roads in the state are shown." %}
 {% include figure-right.html %}
->"Geological Map of New Jersey" (1868). Large lithograph map, with added color, 88 × 64 cm. Scale: 5 miles to 1 inch. All roads in the state are shown.
+>1868: Geological Survey of New Jersey. Geology of New Jersey (Newark: Daily Advertiser Office, 1868) [Historic Maps Collection]. A nine hundred-page report, with a large geological map in the back pocket, accompanied by a portfolio of eight additional geological maps on twelve sheets, titled &quot;Geological Survey of New Jersey Maps.&quot; Several of the maps, in sections, have a scale of 2 miles to 1 inch.
 
 After Kitchell's sudden death from pneumonia at the end of 1861, the office of state geologist lapsed for a few years. "An act to complete the Geological Survey of the State"<sup>12</sup>  passed on March 30, 1864. George Hammell Cook 1818–1889) was given the post and the charge. A former civil engineer and Rutgers professor, he had been Kitchell's assistant geologist during the survey years of the 1850s. In 1864, Cook also became vice president of Rutgers College; he had been instrumental in the institution's quest for land-grant status. (Rutgers's Cook College, today's School of Environmental and Biological Sciences, was named for him.)
 
@@ -207,30 +209,32 @@ The seventeen regional maps and the state map of this atlas represent the culmin
 
 ---
 
-<small><sup>1</sup> _Trenton Federalist_, vol. 9, no. 454 (November 9, 1807), p. 2. Watson offered a 10 percent commission on sales of his map.</small>
+<div class="footnotes">
+	<small><sup>1</sup> <em>Trenton Federalist</em>, vol. 9, no. 454 (November 9, 1807), p. 2. Watson offered a 10 percent commission on sales of his map.</small>
 
-<small><sup>2</sup> Joseph J. Felcone, "New Jersey Copyright Registrations, 1791–1845," _Proceedings of the American Antiquarian Society_ 104 (1994): 70.</small>
+	<small><sup>2</sup> Joseph J. Felcone, "New Jersey Copyright Registrations, 1791–1845," <em>Proceedings of the American Antiquarian Society</em> 104 (1994): 70.</small>
 
-<small><sup>3</sup> _Trenton Federalist_, vol. 9, no. 458 (December 7, 1807), p. 3.</small>
+	<small><sup>3</sup> <em>Trenton Federalist</em>, vol. 9, no. 458 (December 7, 1807), p. 3.</small>
 
-<small><sup>4</sup> Paul D. Boyd, _Atlantic Highlands: From Lenape Camps to Bayside Town_ (2004), p. 95.</small>
+	<small><sup>4</sup> Paul D. Boyd, <em>Atlantic Highlands: From Lenape Camps to Bayside Town</em> (2004), p. 95.</small>
 
-<small><sup>5</sup> _The New-Jersey Journal_ (Elizabethtown, N.J.), vol. 26, no. 1582 (February 22, 1814), p. 2.</small>
+	<small><sup>5</sup> <em>The New-Jersey Journal</em> (Elizabethtown, N.J.), vol. 26, no. 1582 (February 22, 1814), p. 2.</small>
 
-<small><sup>6</sup> _The True American_ (Trenton, N.J.), vol. 14, no. 683 (April 4, 1814), p. 1.</small>
+	<small><sup>6</sup> <em>The True American</em> (Trenton, N.J.), vol. 14, no. 683 (April 4, 1814), p. 1.</small>
 
-<small><sup>7</sup> _The American Journal of Improvements in the Useful Arts, or Mirror of the Patent Office in the United States_ (Washington, D.C.: William Greer, 1828), vol. I, no. 1, p. 27.</small>
+	<small><sup>7</sup> <em>The American Journal of Improvements in the Useful Arts, or Mirror of the Patent Office in the United States</em> (Washington, D.C.: William Greer, 1828), vol. I, no. 1, p. 27.</small>
 
-<small><sup>8</sup> _Acts of the Twenty-Fourth General Assembly of the State of New-Jersey_, p. 652.</small>
+	<small><sup>8</sup> <em>Acts of the Twenty-Fourth General Assembly of the State of New-Jersey</em>, p. 652.</small>
 
-<small><sup>9</sup> _Acts of the Forty-Seventh General Assembly of the State of New-Jersey_, p. 98.</small>
+	<small><sup>9</sup> <em>Acts of the Forty-Seventh General Assembly of the State of New-Jersey</em>, p. 98.</small>
 
-<small><sup>10</sup> H. S. Tanner, _Memoir on the Recent Surveys, Observations, and Internal Improvements, in the United States..._(1830), p. 26.</small>
+	<small><sup>10</sup> H. S. Tanner, <em>Memoir on the Recent Surveys, Observations, and Internal Improvements, in the United States...</em>(1830), p. 26.</small>
 
-<small><sup>11</sup> _Acts of the Eighty-Fourth Legislature of the State of New Jersey_, pp. 280–281.</small>
+	<small><sup>11</sup> <em>Acts of the Eighty-Fourth Legislature of the State of New Jersey</em>, pp. 280–281.</small>
 
-<small><sup>12</sup> _Acts of the Eighty-Eighth Legislature of the State of New Jersey_, pp. 591–593.</small>
+	<small><sup>12</sup> <em>Acts of the Eighty-Eighth Legislature of the State of New Jersey</em>, pp. 591–593.</small>
 
-<small><sup>13</sup> George H. Cook, in Geological Survey of New Jersey, _Final Report of the State Geologist_ (1888), vol. 1, pp. 2–3.</small>
+	<small><sup>13</sup> George H. Cook, in Geological Survey of New Jersey, <em>Final Report of the State Geologist</em> (1888), vol. 1, pp. 2–3.</small>
 
-<small><sup>14</sup> Snyder, _The Mapping of New Jersey_ (1973), p. 123.</small>
+	<small><sup>14</sup> Snyder, <em>The Mapping of New Jersey</em> (1973), p. 123.</small>
+</div>

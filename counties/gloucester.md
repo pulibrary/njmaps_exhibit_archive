@@ -20,9 +20,11 @@ title: Gloucester County
 
 {% assign dir = "gloucester" %}
 {% assign id = "1849-gloucester-county-wall-map" %}
-{% assign title = "Alexander C. Stansbie, James Keily, and Samuel M. Rea. &quot;A Map of the Counties of Salem and Gloucester New Jersey. From Original Surveys&quot; (Philadelphia: Smith & Wistar, 1849) [Library of Congress]. Wall map, with ornamental border and added color, 94 × 133 cm. Scale: approx. 0.8 mile to 1 inch. (also covers Salem County)" %}
+{% assign title = "Alexander C. Stansbie, James Keily, and Samuel M. Rea. &quot;A Map of the Counties of Salem and Gloucester New Jersey. From Original Surveys&quot; (Philadelphia: Smith & Wistar, 1849) [Library of Congress]. Wall map, with ornamental border and added color, 94 × 133 cm. Scale: approx. 0.8 mile to 1 inch." %}
 {% include figure.html %}
-_First wall map of Gloucester County._ A yellow line marks its border with Salem County, much of which follows Old Man's Creek (called Oldmans Creek today). One of the two original counties of West Jersey, Gloucester's former territory had given birth to both Atlantic (1837) and Camden (1844) Counties. Here, the remnant consists of five townships (Deptford, Franklin, Greenwich, Harrison, Woolwich) colored in green, yellow, blue, or pink—with the Delaware River forming the northern boundary. A statistical table at the top, using 1847 data, provides the size (in acres), number of taxables and householders, and total paid county and state taxes for each township. (Each township averages only about five hundred landowners.) The "unscrolled" descriptive text on the map's right side notes Woodbury's important role in supplying the Philadelphia market with garden vegetables and firewood. An engraving presents a view of Woodbury from across the Woodbury Creek.
+<p class="dropCap">
+	First wall map of Gloucester County. A yellow line marks its border with Salem County, much of which follows Old Man's Creek (called Oldmans Creek today). One of the two original counties of West Jersey, Gloucester's former territory had given birth to both Atlantic (1837) and Camden (1844) Counties. Here, the remnant consists of five townships (Deptford, Franklin, Greenwich, Harrison, Woolwich) colored in green, yellow, blue, or pink—with the Delaware River forming the northern boundary. A statistical table at the top, using 1847 data, provides the size (in acres), number of taxables and householders, and total paid county and state taxes for each township. (Each township averages only about five hundred landowners.) The "unscrolled" descriptive text on the map's right side notes Woodbury's important role in supplying the Philadelphia market with garden vegetables and firewood. An engraving presents a view of Woodbury from across the Woodbury Creek.
+</p>
 
 >**1834:** _**Woodbury**_, p-t., and seat of justice of Gloucester co., on Woodbury creek, at the head of navigation, 8 miles S. of Camden, 39 from Trenton, and 145 from W.C.; contains a spacious court-house of brick, and county offices, fire-proof, and of the same material, detached, and a prison, in the rear of the court-house, of stone; 1 Friends' meeting house, large, and of brick; 1 Presbyterian church, frame, with cupola and bell, the upper part of which is used as an academy; and 1 brick Methodist church; 2 common schools; 2 public libraries, one of which was founded by the ladies of the town; 2 sunday schools; a county bible society; and temperance society, which has been productive of very beneficial effects; several store-keepers refusing to sell spirituous liquors; 10 stores, 3 taverns, 4 lawyers, 3 physicians, 1 clergyman, 100 dwelling houses, and 735 inhabitants. The town, for a mile in length, and half a mile in breadth, is incorporated, for the maintenance of a fire engine and fire apparatus, for which eight wells have been sunk; and the provisions for defence, against this devastating element, are very efficient. The creek was, 70 years since, stopped up; but the obstruction was removed in 1830, much to the convenience and health of the inhabitants. Vessels now load at the landing, in the town [Gordon, pp. 265–266].
 
@@ -45,6 +47,10 @@ The number of townships has doubled to ten, colored in pink, green, orange (appe
 <h1 class="fancy nobg">◊ ◊ ◊</h1>
 
 {% assign dir = "gloucester" %}
+{% assign id = "2013-pitman-grove" %}
+{% assign title = "2013: View down 1st Avenue (a sidewalk) to the tabernacle building" %}
+{% include figure-left.html %}
+{% assign dir = "gloucester" %}
 {% assign id = "1876-mantua-township-map" %}
 {% assign title = "&quot;Map of Mantua Township.&quot; Lithograph map, with added color, 39.9 × 31 cm." %}
 {% include figure-right.html %}
@@ -52,10 +58,6 @@ The circular grounds of the Pitman Grove Camp Meeting are shown at the bottom of
 
 <h1 class="fancy nobg">◊ ◊ ◊</h1>
 
-{% assign dir = "gloucester" %}
-{% assign id = "2013-pitman-grove" %}
-{% assign title = "2013: View down 1st Avenue (a sidewalk) to the tabernacle building" %}
-{% include figure-left.html %}
 {% assign dir = "gloucester" %}
 {% assign id = "1876-glassboro-town-map" %}
 {% assign title = "Sheet with four town maps: &quot;Malaga&quot; (Franklin Township), &quot;Asbury&quot; (Woolwich Township), &quot;Glassboro&quot; (Clayton Township), and &quot;Mullica Hill&quot; (Harrison Township) Lithograph maps, with added color, sheet 39.9 × 31 cm." %}

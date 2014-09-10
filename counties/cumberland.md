@@ -22,7 +22,9 @@ title: Cumberland County
 {% assign id = "1862-cumberland-county-wall-map" %}
 {% assign title = "S. N. Beers, F. W. Beers, L. B. Lake, and C. S. Warner. &quot;Map of Cumberland Co., New Jersey: Fom Actual Surveys&quot; (Philadelphia: A. Pomeroy, 1862) [Library of Congress]. Wall map, with added outline color, 146 × 136 cm. Scale: 1 mile to 1.625 inches." %}
 {% include figure.html %}
-_First wall map of Cumberland County._ Yellow, green, blue, pink, and orange border colors identify ten townships: Bridgeton, Cohansey, Deerfield, Downe, Fairfield, Greenwich, Hopewell, Maurice River, Millville, and Stow Creek. (Cohansey only existed in the county from 1848 to 1865. Incorporated on March 1, 1865, Bridgeton City replaced both Cohansey and Bridgeton townships.) Around the sides of the map are eighteen insets of town plans (_in clockwise order from top left_): Port Elizabeth, Vineland, Dorchester, Greenwich, Newport, Heislerville, Roadstown, Millville (25 rods to 1 inch), Fairton, Maurice Town, Leesburg, Cedarville, Bricksboro, Dividing Creek, Shiloh, Marshallville, Bridgeton (22.5 rods to 1 inch), and Manamuskin Manor. Most of these include a business directory. Similar to the other county maps, numerous Civil War–era landowners are named and located. In addition, there are four engravings of buildings: the private home of Millville resident Furman L. Mulford (Millville's banker), Millville's public schoolhouse, and Bridgeton's courthouse and West Jersey Academy.
+<p class="dropCap">
+	First wall map of Cumberland County. Yellow, green, blue, pink, and orange border colors identify ten townships: Bridgeton, Cohansey, Deerfield, Downe, Fairfield, Greenwich, Hopewell, Maurice River, Millville, and Stow Creek. (Cohansey only existed in the county from 1848 to 1865. Incorporated on March 1, 1865, Bridgeton City replaced both Cohansey and Bridgeton townships.) Around the sides of the map are eighteen insets of town plans (_in clockwise order from top left_): Port Elizabeth, Vineland, Dorchester, Greenwich, Newport, Heislerville, Roadstown, Millville (25 rods to 1 inch), Fairton, Maurice Town, Leesburg, Cedarville, Bricksboro, Dividing Creek, Shiloh, Marshallville, Bridgeton (22.5 rods to 1 inch), and Manamuskin Manor. Most of these include a business directory. Similar to the other county maps, numerous Civil War–era landowners are named and located. In addition, there are four engravings of buildings: the private home of Millville resident Furman L. Mulford (Millville's banker), Millville's public schoolhouse, and Bridgeton's courthouse and West Jersey Academy.
+</p>
 
 {% assign dir = "cumberland" %}
 {% assign id = "2013-west-jersey-academy-site" %}
@@ -67,9 +69,10 @@ At the time of the map, the town boasted nine general stores, a hotel, a large t
 <h1 class="fancy nobg">◊ ◊ ◊</h1>
 
 {% assign dir = "cumberland" %}
+{% assign id = "2013-bridgeton-courthouse-block" %}
+{% assign title = "2013: View of that block today" %}
+{% include figure-left.html %}
+{% assign dir = "cumberland" %}
 {% assign id = "1876-bridgeton-courthouse" %}
 {% assign title = "&quot;Court House, Jail, and Sheriff's Residence&quot; (Bridgeton, 1876)" %}
-{% assign dir2 = "cumberland" %}
-{% assign id2 = "2013-bridgeton-courthouse-block" %}
-{% assign title2 = "2013: View of that block today" %}
-{% include figure2.html %}
+{% include figure.html %}

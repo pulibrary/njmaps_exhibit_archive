@@ -9,7 +9,9 @@ title: Coastal Charts (1666, 1675, 1749)
 
 ###Coastal Charts
 
-Sixteenth-century maps of North America invariably include the territory of today's New Jersey. But their focus is the continent that had just been revealed by Christopher Columbus. Gradually, in the seventeenth century, regional, particularly coastal, maps began to appear as European explorers returned home from their adventuring and then started bringing settlers back to establish colonial possession.
+<p class="dropCap">
+	Sixteenth-century maps of North America invariably include the territory of today's New Jersey. But their focus is the continent that had just been revealed by Christopher Columbus. Gradually, in the seventeenth century, regional, particularly coastal, maps began to appear as European explorers returned home from their adventuring and then started bringing settlers back to establish colonial possession.
+</p>
 
 {% assign dir = "background" %}
 {% assign id = "1666-goos-state-map" %}
@@ -17,7 +19,7 @@ Sixteenth-century maps of North America invariably include the territory of toda
 {% include figure-right.html %}
 _The earliest printed map/chart of the territory that became New Jersey_. A member of a well-respected Dutch family of map engravers/printers/publishers, Goos worked in Amsterdam during the golden age of Dutch cartography. According to English cartobibliographer Philip Burden, this is the rarest of Goos's atlas's charts. Larger than the others, it was probably issued separately and only included in the atlas by request; most copies of the atlas do not contain it. The rhumb lines and depth soundings convey its navigational purpose.
 
-Stretching from Cape Henlopen, Delaware, to Rockaway, Long Island (_streckende van Cabo Hinloopen tot Rechkewach_), the map presents many place names that are familiar today. _Cape Maey_ (Cape May), _Groote Ayer Haven_ (Great Egg Harbor), _Barnegat_ (Barnegat), _Sant punt_ (Sandy Hook)—along the Atlantic coastline—remain virtually the same. Still recognizable ones among those shown on the western side of today's Raritan Bay and the Hudson River include _Raritans Kill_ (Raritan River), _Navesincx_ (Navesink), _Staten Eylant_ (Staten Island), _Constaepels hoeck_ (Constable Hook), _Paulus hoeck_ (Paulus Hook), and _Hooboocken_ (Hoboken). Several of these names are associated with Dutch captain Cornelius Jacobsen Mey, who voyaged along the Jersey coast in 1620–1621; in 1624, he brought the first Dutch settlers over to New Amsterdam and was appointed as the first director of the fledgling colony of New Netherland.
+Stretching from Cape Henlopen, Delaware, to Rockaway, Long Island (_streckende van Cabo Hinloopen tot Rechkewach_), the map presents many place names that are familiar today. _Cape Maey_ (Cape May), _Groote Eyer Haven_ (Great Egg Harbor), _Barnegat_ (Barnegat), _Sant punt_ (Sandy Hook)—along the Atlantic coastline—remain virtually the same. Still recognizable ones among those shown on the western side of today's Raritan Bay and the Hudson River include _Raritans Kill_ (Raritan River), _Navesincx_ (Navesink), _Staten Eylant_ (Staten Island), _Constaepels hoeck_ (Constable Hook), _Paulus hoeck_ (Paulus Hook), and _Hooboocken_ (Hoboken). Several of these names are associated with Dutch captain Cornelius Jacobsen Mey, who voyaged along the Jersey coast in 1620–1621; in 1624, he brought the first Dutch settlers over to New Amsterdam and was appointed as the first director of the fledgling colony of New Netherland.
 
 The various forts along what is now the Delaware River reflect the leapfrogging attempts, from the 1630s to the 1650s, by Swedish (_'t Fort Christina_, _'t Fort Elsenburgh_, _Gottenburgh_) and Dutch ('_t Fort Nassau_ and _'t Fort Kasimiris_) colonists to assert claims to the new country. Though the Dutch Republic regained Manhattan in 1673, all of the area was permanently ceded to England the next year in the Treaty of Westminster.
 
@@ -29,13 +31,15 @@ At the time of the map, the entire region belonged to the English, who had conqu
 
 This is the first formally documented delineation of the bounds of New Jersey. James named the province _Nova Cæsarea_ or New Jersey, after the English Channel island of Jersey, Carteret's ancestral home, which had been the first English territory to recognize Charles's claim to the throne.
 
+<h1 class="fancy nobg">◊ ◊ ◊</h1>
+
 {% assign dir = "background" %}
 {% assign id = "1675-roggeveen-state-map" %}
 {% assign title = "1675: Arent Roggeveen (d. 1679). &quot;Pascaerte van Nieu Nederland Streckende vande Zuydt Revier tot de Noordt Revier en't Lange Eyland&quot; [Historic Maps Collection, purchased with support from Judith M. and William H. Scheide, Class of 1936]. Copperplate map, with added outline color, 41.6 × 50.2 cm. From Roggeveen's Het eerste deel van het Brandende Veen, verlichtende alle de vaste kusten ende eylanden van geheel West-Indien, beginnende van de linie aequinoctiael ofte Rio Amasones... (Amsterdam: Pieter Goos in Compagnie met den Autheur, 1675). This is the rare first state of the sea chart, bearing no imprint. Reference: Burden, The Mapping of North America II, 450." %}
 {% include figure-right.html %}
 Roggeveen worked for the Dutch East and West India Companies as a mathematician, navigator, and cartographer. His chart, derived from the previous map, changes its orientation (west is now at the top) and extends its coverage eastward along Long Island Sound to Oyster Bay (_Oester Bay_). Between the _Zuyd Revier_ (South River, today's Delaware) and the _Noort Revier_ (North River or today's Hudson), the nomenclature remains the same as before. Long Island (_Lange Eyland_), though, becomes an island with much greater detail on its western end.
 
-In 1676, subsequent to a new agreement with new parties—financial difficulties had forced Lord Berkeley to sell his share in 1674—New Jersey formally became two provinces: East and West Jersey. The dividing line acquired obvious cartographic significance. (See the "State Maps" subsection below for further discussion of this boundary line.)
+In 1676, subsequent to a new agreement with new parties<sup>2</sup>—financial difficulties had forced Lord Berkeley to sell his share in 1674—New Jersey formally became two provinces: East and West Jersey. The dividing line acquired obvious cartographic significance. (See the "State Maps" subsection below for further discussion of this boundary line.)
 
 <h1 class="fancy nobg">◊ ◊ ◊</h1>
 
@@ -46,6 +50,8 @@ In 1676, subsequent to a new agreement with new parties—financial difficulties
 _First state of the first map of New Jersey published in English_. The map also contains the second earliest English view of New York City. Among other changes, later states improve upon the depiction of New York Harbor and acknowledge the division into East and West Jersey as directed by the Quintipartite Deed. Seller was an important English mapmaker, the first to establish an atlas-publishing firm to compete with Continental companies like that of the Dutch Blaeu family. In 1671, he was appointed "Hydrographer to the King." Financial difficulties ultimately forced him to bring in partners.
 
 Oriented with north to the right, Seller's map offers an attractive pictorial view of the land: hilly, wooded, full of wildlife. His clear intent was to attract settlers to the territory recently regained (1674) from the Dutch. Representative—non-threatening?—Indian settlements are shown on the right. Cartographically, Seller has combined/borrowed features from earlier maps, such as one by Augustine Herrman of the Chesapeake and Delaware Bay regions (1673) and the popular Nicolaes Visscher version of Jan Jansson's "Novi Belgii" (1651) with its inset view of New York City. There are no interior place names, but along the Delaware River he has maintained many of the Dutch ones. On the Atlantic Ocean, the Jersey coast now has a number of long barrier islands, bearing notes such as "wood land" and "sand land."
+
+<h1 class="fancy nobg">◊ ◊ ◊</h1>
 
 {% assign dir = "background" %}
 {% assign id = "1749-tiddeman-nyharbor-map" %}
@@ -59,4 +65,7 @@ The main purpose of the map is to aid sailors in navigating the treacherous entr
 
 ---
 
-<small><sup>1</sup> This version of the wording of the colonial charter is taken from the website of the Law Library of the New Jersey State Library: [http://www.njstatelib.org/research_library/legal_resources/historical_laws/charters_and_treaties/](http://www.njstatelib.org/research_library/legal_resources/historical_laws/charters_and_treaties/) (accessed November 2013).</small>
+<div class="footnotes">
+    <small><sup>1</sup> This version of the wording of the colonial charter is taken from the website of the Law Library of the New Jersey State Library: <a href="http://www.njstatelib.org/research_library/legal_resources/historical_laws/charters_and_treaties/">(http://www.njstatelib.org/research_library/legal_resources/historical_laws/charters_and_treaties/)</a> (accessed November 2013).</small>
+    <small><sup>2</sup> the Quintipartite Deed, signed by George Carteret, William Penn, Gawen Lawry, Nicholas Lucas, and Edward Byllynge.</small>
+</div>

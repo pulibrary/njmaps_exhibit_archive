@@ -20,18 +20,20 @@ title: Bergen County
 
 {% assign dir = "hudson" %}
 {% assign id = "1860-hudson-county-map" %}
-{% assign title = "1860: County Map (partial). Matthew Dripps. &quot;Map of the Five Cities of New York, Brooklyn, Jersey City, Hoboken & Hudson City&quot; (New York?: M. Dripps, 1860) [Historic Maps Collection]. &quot;Plate No. 2.&quot; One of two lithographed map sheets, with added color, 63 x 71 cm. &quot;Prepared by M. Dripps for Valentine's Manuel [sic] of the Corporation of the city of New York.&wuot; Scale: 2.5 miles to 1 inch." %}
+{% assign title = "Matthew Dripps. &quot;Map of the Five Cities of New York, Brooklyn, Jersey City, Hoboken & Hudson City&quot; (New York?: M. Dripps, 1860) [Historic Maps Collection]. &quot;Plate No. 2.&quot; One of two lithographed map sheets, with added color, 63 x 71 cm. &quot;Prepared by M. Dripps for Valentine's Manuel [sic] of the Corporation of the city of New York.&wuot; Scale: 2.5 miles to 1 inch." %}
 {% include figure.html %}
-_One of the first large maps to include any part of Hudson County_. In 1840, Hudson County was created by the New Jersey Legislature from southern parts of Bergen County; as a result, the township area labeled "Bergen" in large letters on this map is actually part of Hudson County. The dizzying absorption, dissolution, and creation of New Jersey townships (and, to some extent, counties) during the nineteenth century often made borders difficult to define and understand.
+<p class="dropCap">
+	One of the first large maps to include any part of Hudson County. In 1840, Hudson County was created by the New Jersey Legislature from southern parts of Bergen County; as a result, the township area labeled "Bergen" in large letters on this map is actually part of Hudson County. The dizzying absorption, dissolution, and creation of New Jersey townships (and, to some extent, counties) during the nineteenth century often made borders difficult to define and understand.
+</p>
 
 Ferry lines are indicated by dotted lines. Today's Holland Tunnel crosses under the Hudson River from Jersey City's 12th Street to Manhattan's Spring Street, essentially following the middle dotted line shown on the map. Opened in 1927, the tunnel pioneered a mechanical ventilation system that could handle the noxious carbon monoxide emissions of the cars. The three tubes of the Lincoln Tunnel (1927, 1945, 1957) connect Hudson County's Weehawken (near the top of the map) to Manhattan at Tenth Avenue between Thirty-Eighth and Thirty-Ninth Streets.
-
-At the top left of the map, "Three Pigeons" marks the site of a former tavern that was a prominent meeting place during the American Revolution. Historically, it was used as a landmark and popular venue for special events; today, it is an intersection. "Elysian Fields," colored blue on the Hudson River side of Hoboken, is where the Knickerbockers played the New York Nine on June 19, 1846, the first organized baseball game. Hence, some claim it is the birthplace of baseball.
 
 {% assign dir = "hudson" %}
 {% assign id = "2013-elysian-fields-marker2" %}
 {% assign title = "2013: Elysian Fields memorial marker at the corner of 11th and Washington Streets in Hoboken." %}
 {% include figure-left.html %}
+At the top left of the map, "Three Pigeons" marks the site of a former tavern that was a prominent meeting place during the American Revolution. Historically, it was used as a landmark and popular venue for special events; today, it is an intersection. "Elysian Fields," colored blue on the Hudson River side of Hoboken, is where the Knickerbockers played the New York Nine on June 19, 1846, the first organized baseball game. Hence, some claim it is the birthplace of baseball.
+
 Note the proximity of Ellis and Bedloes Islands to Hudson County territory. The first settlers of New Netherlands named these (with the small one below them) the Oyster Islands, for the western side of the Upper New York Bay consisted of vast tidal flats, called the Jersey Flats, rich in oyster beds. The islands are closer to the mainland today, for much of that area has been landfilled, creating Liberty State Park. The federal government took ownership and control of them in the early 1800s, initially for defensive purposes. The installation of the Statue of Liberty on Bedloes Island was completed in 1886; the island became Liberty Island by an act of Congress in 1956.
 
 D\. T. Valentine's _Manual of the Corporation of New York_ was published annually from 1841 to 1870. Illustrated with maps and prints, these volumes documented New York City government with lists of offices and officeholders, election and financial statistics, and information about social institutions and services.
@@ -71,7 +73,7 @@ _First atlas of Hudson County._ It begins with a four-page "Special Classified B
 {% assign dir2 = "hudson" %}
 {% assign id2 = "1873-hudson-county-map2" %}
 {% assign title2 = "&quot;Outline & Index Map of Hudson County, New Jersey.&quot; Lithograph map, with added color, 40 × 65.4 cm. Scale: 2,500 feet to 1 inch." %}
-{% include figure2.html %} 
+{% include figure2-caption.html %} 
 Dotted lines show the proposed extension of Jersey City streets into New York Bay. The word _Meadows_ overlays Kearney Township (colored light orange) in two places. This region between the Passaic and Hackensack Rivers is today's Meadowlands, home of wetlands, landfills, and the Meadowlands Sports Complex. Since the time of the first Dutch settlers, the estuarine environment has suffered from various kinds of human intervention: draining, dredging, and waste disposal.
 
 >**1834:** _**Snake Hill**_, a noted eminence of Secaucas Island, in the marsh on Hackensack river, and a very prominent object from the road, between Jersey City and Newark. Its formation is of trap rock, on sandstone base [Gordon, p. 238].
@@ -104,7 +106,7 @@ Bayonne is shown as a peninsula with two capes: Constable Hook on the east (_rig
 
 {% assign dir = "hudson" %}
 {% assign id = "IMG_1020" %}
-{% assign title = "Bayonne Golf Club (on the Constable Hook peninsula) Historical Marker." %}
+{% assign title = "" %}
 {% include figure-left.html %} 
 
 {% assign dir = "hudson" %}
@@ -119,5 +121,6 @@ Connecting Upper New York Bay and Newark Bay is the Kill von Krull, a tidal stra
 {% include figure.html %}
 
 ---
-
-<small><sup>1</sup> Robert Juet, _Juet's Journal_ (1959), p. 29. As the boat slowly returned to the _Half Moon_, under sail and oars, the group had a chance encounter with natives in two large dugout canoes. John Colman, the only Englishman of the five, was killed when an arrow pierced his throat—thus, another first: the first European killed in "Jersey" waters.</small>
+<div class="footnotes">
+    <small><sup>1</sup> Robert Juet, <em>Juet's Journal</em> (1959), p. 29. As the boat slowly returned to the <em>Half Moon</em>, under sail and oars, the group had a chance encounter with natives in two large dugout canoes. John Colman, the only Englishman of the five, was killed when an arrow pierced his throat—thus, another first: the first European killed in "Jersey" waters.</small>
+</div>

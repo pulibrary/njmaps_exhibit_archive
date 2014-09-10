@@ -22,7 +22,9 @@ title: Burlington County
 {% assign id = "1849-burlington-county-wall-map" %}
 {% assign title = "J. W. Otley and R. Whiteford. &quot;Map of Burlington County Mostly from Original Surveys&quot; (Philadelphia: Smith & Wistar, 1849) [Library of Congress]. Wall map, with ornamental border and added outline color, 83 × 163 cm. Scale: approx. 0.8 mile to 1 inch." %}
 {% include figure.html %}
-_First wall map of Burlington County._ It includes separately-bordered maps of Burlington and Mount Holly. The county stretches horizontally from the Delaware River on the left to the Atlantic Ocean on the right. The fourteen townships—Burlington, Chester, Chesterfield, Egg Harbour (later, Little Egg Harbor), Evesham, Hanover, Mansfield, Medford, Northampton, Pemberton, Southampton, Springfield, Washington, Willingborough—are edged in blue, yellow, orange, pink, or green, but the rest of the map is uncolored. Names of landowners are located, but the region grows very sparse towards the ocean, as the sandy coastal plain is much less fertile. Large sections are covered with tree symbols denoting portions of the Pine Barrens, which extends across several counties of southern New Jersey.<sup>1</sup> A historical note and engravings of City Hall in Burlington and the county buildings in Mount Holly complete the main features of the map.
+<p class="dropCap">
+	First wall map of Burlington County. It includes separately-bordered maps of Burlington and Mount Holly. The county stretches horizontally from the Delaware River on the left to the Atlantic Ocean on the right. The fourteen townships—Burlington, Chester, Chesterfield, Egg Harbour (later, Little Egg Harbor), Evesham, Hanover, Mansfield, Medford, Northampton, Pemberton, Southampton, Springfield, Washington, Willingborough—are edged in blue, yellow, orange, pink, or green, but the rest of the map is uncolored. Names of landowners are located, but the region grows very sparse towards the ocean, as the sandy coastal plain is much less fertile. Large sections are covered with tree symbols denoting portions of the Pine Barrens, which extends across several counties of southern New Jersey.<sup>1</sup> A historical note and engravings of City Hall in Burlington and the county buildings in Mount Holly complete the main features of the map.
+</p>
 
 {% assign dir = "burlington" %}
 {% assign id = "2013-mount-holly-survey-marker" %}
@@ -30,7 +32,7 @@ _First wall map of Burlington County._ It includes separately-bordered maps of B
 {% assign dir2 = "burlington" %}
 {% assign id2 = "2013-mount-holly-survey-marker2" %}
 {% assign title2 = "2013: 1837 survey marker at the top of Mount Holly (with close-up). Mount Holly was one of the primary stations selected in 1875 when the geodetic surveying of New Jersey began. (See the &quot;Outline Map Showing the Triangulations Made by the U.S. Coast Survey&quot; near the end of the &quot;State of New Jersey: First Wall Maps and Atlases&quot; section.)" %}
-{% include figure2.html %} 
+{% include figure2-caption.html %} 
 
 {% assign dir = "burlington" %}
 {% assign id = "2013-apple-pie-hill" %}
@@ -58,12 +60,14 @@ Indian Mills (Shamong Township) is named for mills run by the Brotherton people,
 
 {% assign dir = "burlington" %}
 {% assign id = "2013-indian-mills" %}
-{% assign title = "2013: The spillway on Indian Mills Lake where the Indian gristmill once operated (shown as the black area on the map). It burned down in 1762." %}
+{% assign title = "2013: The spillway on Indian Mills Lake where the Indian gristmill once operated (on the left end of the bottom lake). It burned down in 1762." %}
 {% include figure-left.html %}
 {% assign dir = "burlington" %}
 {% assign id = "1883-indian-reservation-lands" %}
 {% assign title = "&quot;Map of the Indian Lands at Edgepillock, alias Brotherton.&quot; Printed map, 25 × 28 cm, on larger sheet. From Major E. M. Woodward and John F. Hagemean's History of Burlington and Mercer Counties, New Jersey, with Biographical Sketches of Many of Their Pioneers and Prominent Men (Philadelphia: Everts & Peck, 1883) [General Collection]." %}
 {% include figure.html %}
+
+<h1 class="fancy nobg">◊ ◊ ◊</h1>
 
 {% assign dir = "burlington" %}
 {% assign id = "1876-little-egg-harbor-map" %}
@@ -72,6 +76,8 @@ Indian Mills (Shamong Township) is named for mills run by the Brotherton people,
 >**1834:** _**Egg Harbour, Little**_, t-ship, Burlington co.. . . The northern part of the township, called the Plains, is of the former, covered with low pines and scrub oaks, forming an excellent covert for deer and grouse, which find abundant food in the mast produced by the latter. The southern part of the t-ship is sandy, covered with forest. It is drained chiefly by branches of Little Egg Harbour river, of which Bass river is here the chief. Tuckerton, upon Shorl's mill branch, is the post-town. Population in 1830, 1490. In 1832, the t-ship contained 150 house-holders, whose ratables did not exceed $30; 347 taxables, 51 single men, 6 stores, 4 saw mills, 3 grist mills, 1 two horse stage, 7 dearborns, 36 covered wagons, 10 gigs and sulkies, 640 neat cattle, 170 horses and mules; and it paid state tax, $127.48; county tax, $444; road tax, $300 [Gordon, p. 135].
 
 This township became part of Ocean County in 1891.
+
+<h1 class="fancy nobg">◊ ◊ ◊</h1>
 
 {% assign dir = "burlington" %}
 {% assign id = "1876-mount-holly-map" %}
@@ -84,6 +90,8 @@ This township became part of Ocean County in 1891.
 {% assign title = "2013: The original firehouse of Relief Fire Company No. 1, home of the oldest continuously operating fire company in the United States (1752), shown on Pine Street at the lower center of the map." %}
 {% include figure.html %}
 
+<h1 class="fancy nobg">◊ ◊ ◊</h1>
+
 {% assign dir = "burlington" %}
 {% assign id = "2013-bordentown-female-academy" %}
 {% assign title = "2013: A private residence occupies the area now, at the corner of Courtland Street and Farnsworth Avenue, where Farnsworth descends to the Bordentown Yacht Club. A memorial fountain was placed at the intersection of Farnsworth Avenue and Crosswicks Street, across from the Bordentown Banking Company, in 1914." %}
@@ -94,6 +102,8 @@ This township became part of Ocean County in 1891.
 {% assign title = "&quot;Bordentown Female College&quot; (1876). Dedicated to improving the &quot;manners, morals and health&quot; of its female students, the boarding school (1850–1900) succumbed to the financial panic of 1893. The women were housed in the president's home, overlooking the Delaware River, at the north end of Main Street (today's Farnsworth Ave.)" %}
 {% include figure.html %}
 
+<h1 class="fancy nobg">◊ ◊ ◊</h1>
+
 {% assign dir = "burlington" %}
 {% assign id = "2013-florence-trall-site" %}
 {% assign title = "2013: View from the Delaware River, looking downstream. The forested area to the left of the red buoy is the approximate former site of Trall's college." %}
@@ -101,7 +111,7 @@ This township became part of Ocean County in 1891.
 
 {% assign dir = "burlington" %}
 {% assign id = "1876-tralls-hygeian-college" %}
-{% assign title = "&quot;Trall's Hygeian Home and Hygeio Therapeutic College&quot; (Florence) (1876). New Jersey-born doctor Russell Thacher Trall (1812–1877) was a leading proponent of hydropathy and vegetarianism in the treatment of illness. He is recognized today as a pioneer of "natural hygiene,&quot; a controversial, anti-drug method of medical practice. He published numerous works—from pamphlets to cookbooks to an encyclopedia—and put his theories to practice in a large treatment/training center that he built in New Jersey. The site of Trall's facility was on the Delaware River side of Front Street in Florence, between Oak Street and Cedar Street. The area is now an overgrown forest." %}
+{% assign title = "&quot;Trall's Hygeian Home and Hygeio Therapeutic College&quot; (Florence) (1876). New Jersey-born doctor Russell Thacher Trall (1812–1877) was a leading proponent of hydropathy and vegetarianism in the treatment of illness. He is recognized today as a pioneer of &quot;natural hygiene,&quot; a controversial, anti-drug method of medical practice. He published numerous works—from pamphlets to cookbooks to an encyclopedia—and put his theories to practice in a large treatment/training center that he built in New Jersey. The site of Trall's facility was on the Delaware River side of Front Street in Florence, between Oak Street and Cedar Street. The area is now an overgrown forest." %}
 {% include figure.html %}
 
 {% assign dir = "burlington" %}
@@ -110,5 +120,6 @@ This township became part of Ocean County in 1891.
 {% include figure.html %}
 
 ---
-
-<small><sup>1</sup> Development in the Pine Barrens (or Pinelands) is strictly controlled by the New Jersey Pinelands Commission. Recognizing its vital ecological importance, Congress designated 1.1 million acres of the area as the New Jersey Pinelands National Reserve in 1978—the nation's first such reserve—and the United Nations added it to its World Network of Biosphere Reserves in 1988.</small>
+<div class="footnotes">
+    <small><sup>1</sup> Development in the Pine Barrens (or Pinelands) is strictly controlled by the New Jersey Pinelands Commission. Recognizing its vital ecological importance, Congress designated 1.1 million acres of the area as the New Jersey Pinelands National Reserve in 1978—the nation's first such reserve—and the United Nations added it to its World Network of Biosphere Reserves in 1988.</small>
+</div>

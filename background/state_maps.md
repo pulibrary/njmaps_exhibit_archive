@@ -9,7 +9,9 @@ title: State Maps (1777, 1784)
 
 ###State Maps
 
-As one might expect, early New Jersey state maps were attempts to formalize, consolidate, and promote territory. In the process, this Mid-Atlantic province/state gained greater attention from land speculators and immigrants.
+<p class="dropCap">
+	As one might expect, early New Jersey state maps were attempts to formalize, consolidate, and promote territory. In the process, this Mid-Atlantic province/state gained greater attention from land speculators and immigrants.
+</p>
 
 {% assign dir = "background" %}
 {% assign id = "1777-faden-state-map" %}
@@ -37,6 +39,10 @@ In 1882, the boundary line was re-examined, and the old stone markers that had b
 {% assign id = "2013-monument-marker-eastern2" %}
 {% assign title = "2013: Eastern boundary monument. On the Palisades above the Hudson River, this is the eastern boundary marker on the New Jersey/New York boundary line. As it states, it is 488 feet west of "station rock," down on the riverbank, the state's easternmost point." %}
 {% include figure.html %}
+{% assign dir = "background" %}
+{% assign id = "2014-province-road" %}
+{% assign title = "2014: This section of Province Line Road, following the 1687 Keith Line, provides part of the county border between Hopewell Township (Mercer) and Montgomery Township (Somerset)." %}
+{% include figure-left.html %}
 Two other lines are prominently displayed on the 1777 map: "Division Line Run in 1743 between East New Jersey and West New Jersey" and "Keiths Line in 1687." George Keith (1639? –1716), surveyor general of East Jersey, was hired to survey the division line between the two provinces in 1687. Why he stopped at the South Branch of the Raritan River (near today's Three Bridges) is not clear. The rest of the boundary was later continued along the North Branch, the Passaic River, and the Pequannock Rivers to New York State as a basis for county boundaries.
 
 Though the provinces united in 1702 to form the royal province of New Jersey, another, later version of the division line—also known as the Quintipartite Deed line after the five partners that had acquired Lord Berkeley's share in 1676—was surveyed by John Lawrence (1709–1794) in 1743, primarily to clarify private property rights. On maps, it was usually called the Lawrence Line.<sup>1</sup> It is still used today to resolve land titles.
@@ -45,15 +51,15 @@ In this colonial era map, New Jersey consists of twelve counties: Bergen, Burlin
 
 William Faden, the map's maker, succeeded in the London business of Thomas Jefferys after he died in 1771. His prolific, fine engravings made him one of the great cartographers of his era. This map of New Jersey was included in his 1777 landmark publication _The North American Atlas: Selected from the Most Authentic Maps, Charts, Plans, &c., Hitherto Published_. At its time, the map was the largest of the province that had been published. Despite obvious errors in the depiction of roads and county boundaries, it remained the standard for decades.
 
-Princeton's copy of the map bears a unique provenance: it belonged to Hugh Percy, second Duke of Northumberland (1742–1817), and bears his family bookplate on the verso.
-
 {% assign dir = "background" %}
 {% assign id = "1777-faden-state-map-percy-bookplate" %}
 {% assign title = "Bookplate: The inner part (crescent with double manacle) is the Percy family badge. The Anglo-Norman saying &quot;Honi soit qui mal y pense&quot; (&quot;Shame on he who thinks evil&quot;) was the motto of the British chivalric Order of the Garter, reserved in British heraldry for certain nobility and military ranks. The coronet on top, showing five (of the implied eight) strawberry leaves, signifies the rank of duke in British peerage." %}
 {% include figure-left.html %}
+Princeton's copy of the map bears a unique provenance: it belonged to Hugh Percy, second Duke of Northumberland (1742–1817), and bears his family bookplate on the verso.
+
 As a member of Parliament, Percy had voted against the repeal of the Stamp Act in 1766, but gradually grew opposed to the king's policies regarding the American colonies. As a British officer, however, he dutifully agreed to go to America to lead his brigade. He participated in the Battle of Lexington and Concord and the Battle of Long Island in the American Revolution.
 
-... [A]t Lexington and Concord on 19 April 1775 Percy played a crucial role in saving Lieutenant-Colonel Smith's force from destruction as it retreated to Boston. Percy's brigade, together with two field pieces, met Smith's beleaguered column on the road between Menotomy and Lexington. Percy's troops held the enraged Massachusetts militiamen at bay while Smith's men regrouped, and then escorted Smith's battered command back to Boston under heavy fire. His coolness was widely praised, and he became the hero of the hour in besieged Boston. In July 1775 he was appointed major-general in America, and in September major-general in the army.<sup>2</sup>
+>... [A]t Lexington and Concord on 19 April 1775 Percy played a crucial role in saving Lieutenant-Colonel Smith's force from destruction as it retreated to Boston. Percy's brigade, together with two field pieces, met Smith's beleaguered column on the road between Menotomy and Lexington. Percy's troops held the enraged Massachusetts militiamen at bay while Smith's men regrouped, and then escorted Smith's battered command back to Boston under heavy fire. His coolness was widely praised, and he became the hero of the hour in besieged Boston. In July 1775 he was appointed major-general in America, and in September major-general in the army.<sup>2</sup>
 
 Still disenchanted with the war and resenting what he considered condescending treatment by General Sir William Howe, the British commander-in-chief, he returned to England in 1777, the year of the map. In this cased format (dissected into sections and mounted on linen for folding into a case), one might assume that Percy used the map for reference in subsequent years.
 
@@ -69,10 +75,16 @@ Though all three division lines begin in Little Egg Harbor, halfway down the Jer
 
 Compiled by John Rutherfurd (1760–1840), a land surveyor and politician, the pamphlet was one of several that were occasioned by land disputes between the East and West Jersey Proprietors. (Rutherford, New Jersey, is named for his family, which owned much of the land in that area.) Princeton's copy of the volume bears his owner's signature.
 
+{% assign dir = "background" %}
+{% assign id = "1784-rutherfurd-autograph" %}
+{% assign title = "" %}
+{% include figure.html %}
+
 ---
+<div class="footnotes">
+    <small><sup>1</sup> See John Parr Snyder, <em>The Mapping of New Jersey</em> (1973), for a fuller discussion of these and other related survey lines.</small>
 
-<small><sup>1</sup> See John Parr Snyder, _The Mapping of New Jersey_ (1973), for a fuller discussion of these and other related survey lines.</small>
+    <small><sup>2</sup> From the Hugh Percy entry in the <em>Oxford Dictionary of National Biography</em>: http://www.oxforddnb.com (accessed August 2013).</small>
 
-<small><sup>2</sup> From the Hugh Percy entry in the _Oxford Dictionary of National Biography_: http://www.oxforddnb.com (accessed August 2013).</small>
-
-<small><sup>3</sup> This specific latitude is a holdover from the popular map "Novi Belgii" (1656) by the Dutch mapmaker Nicolaes Visscher (1618–1679), which is thought to have influenced the Duke of York in describing his grant to his two friends. The map shows a non-existent branch of the Delaware River at that latitude—hence, what seemed at that time to be a logical northwest boundary point.</small>
+    <small><sup>3</sup> This specific latitude is a holdover from the popular map "Novi Belgii" (1656) by the Dutch mapmaker Nicolaes Visscher (1618–1679), which is thought to have influenced the Duke of York in describing his grant to his two friends. The map shows a non-existent branch of the Delaware River at that latitude—hence, what seemed at that time to be a logical northwest boundary point.</small>
+</div>

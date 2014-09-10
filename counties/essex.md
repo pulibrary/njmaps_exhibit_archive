@@ -22,7 +22,9 @@ title: Essex County
 {% assign id = "1850-essex-county-wall-map" %}
 {% assign title = "J. C. Sidney. &quot;Map of Essex County, New Jersey, with the Names of Property Owners &c. from Actual Surveys&quot; (Newark: Hiram A. Belding, 1850) [Library of Congress]. Wall map, with ornamental border, 123 × 87 cm. Scale: 0.5 mile to 1 inch. (includes the future territory of Union County, founded in 1857)" %}
 {% include figure.html %}
-_First wall map of Essex County._ It includes a plan of Newark. (Much of the lower half of the map will become Union County in 1857.) Fourteen township names in bold capitals hover over their non-demarcated regions: Belleville, Bloomfield, Caldwell, Clinton, Elizabeth, Livingston, New Providence, Newark, Orange, Plainfield, Rahway, Springfield, Union, and Westfield. Engravings of the Bloomfield Female Academy, the Mount Prospect Institute (West Bloomfield), and the county courthouse (Newark) add decorative appeal at the map's bottom. The Bloomfield engravings emphasize the township's early educational efforts: it was one of the first (1849) communities in the state to pass a free-school town law, authorizing the collection of taxes for school purposes.
+<p class="dropCap">
+	First wall map of Essex County. It includes a plan of Newark. (Much of the lower half of the map will become Union County in 1857.) Fourteen township names in bold capitals hover over their non-demarcated regions: Belleville, Bloomfield, Caldwell, Clinton, Elizabeth, Livingston, New Providence, Newark, Orange, Plainfield, Rahway, Springfield, Union, and Westfield. Engravings of the Bloomfield Female Academy, the Mount Prospect Institute (West Bloomfield), and the county courthouse (Newark) add decorative appeal at the map's bottom. The Bloomfield engravings emphasize the township's early educational efforts: it was one of the first (1849) communities in the state to pass a free-school town law, authorizing the collection of taxes for school purposes.
+</p>
 
 {% assign dir = "essex" %}
 {% assign id = "1850-bloomfield-female-academy" %}
@@ -57,6 +59,8 @@ Because of the presence of so much surrounding marshland, elevations above high 
 _First atlas of the city of Newark_. The volume contains a map of New Jersey, maps of all twenty-one counties, and a general map of Newark that identifies the territories of its fifteen wards. Individual maps of the wards and the north and south parts of East Newark follow. The atlas concludes with a six-page "Special Classified Business Directory of the City of Newark, New Jersey," an alphabetical listing of local businesses and services, where subscribers are named under "Subscribers."
 
 Pink, blue, yellow, and pale orange colors identify the city's fifteen wards and East Newark. Much of the Tenth and Twelfth Wards are part of the "Newark Meadows" that are still undeveloped. "The Newark and New York Ship Canal" was envisaged as a navigable ferry connection between New York and the center of Newark but was never realized. Note that the Morris Canal winding through the city ends at the Passaic River. All of that channel was gradually filled in; part of the bed became the route of the Newark City Subway in the 1930s, which runs under a section of today's Raymond Boulevard.
+
+<h1 class="fancy nobg">◊ ◊ ◊</h1>
 
 {% assign dir = "essex" %}
 {% assign id = "1873-newark-seventh-ward-map" %}

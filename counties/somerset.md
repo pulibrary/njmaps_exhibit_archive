@@ -20,9 +20,11 @@ title: Somerset County
 
 {% assign dir = "somerset" %}
 {% assign id = "1850-somerset-county-wall-map" %}
-{% assign title = "1850: County Wall Map. J. W. Otley, L. Van Derveer, and J. Keily. &quot;Map of Somerset County New Jersey Entirely from Original Surveys&quot; (Camden, N.J.: Lloyd Van Derveer, 1850) [Library of Congress]. Wall map, with ornamental border and added color,104 × 85 cm. Scale: 1 mile to 1.5 inches." %}
+{% assign title = "J. W. Otley, L. Van Derveer, and J. Keily. &quot;Map of Somerset County New Jersey Entirely from Original Surveys&quot; (Camden, N.J.: Lloyd Van Derveer, 1850) [Library of Congress]. Wall map, with ornamental border and added color,104 × 85 cm. Scale: 1 mile to 1.5 inches." %}
 {% include figure.html %}
-_First wall map of Somerset County._ It includes a separate detailed plan of Somerville (at a scale of 33 perches to 1 inch). Engravings of the state capitol (Trenton), county buildings (Somerville), Young Ladies Institute (Somerville), A. Cammann residence (Somerville), First Dutch Reformed Church (Somerville), Brearley & Mount's Mills (Rocky Hill), and J. V. D. Kelly's mill property (Raritan) circle the map (_clockwise from top left_).
+<p class="dropCap">
+	First wall map of Somerset County. It includes a separate detailed plan of Somerville (at a scale of 33 perches to 1 inch). Engravings of the state capitol (Trenton), county buildings (Somerville), Young Ladies Institute (Somerville), A. Cammann residence (Somerville), First Dutch Reformed Church (Somerville), Brearley & Mount's Mills (Rocky Hill), and J. V. D. Kelly's mill property (Raritan) circle the map (clockwise from top left).
+</p>
 
 {% assign dir = "somerset" %}
 {% assign id = "2013-county-courthouse" %}
@@ -71,34 +73,36 @@ _First wall map of Hillsborough Township._ The list of subscribers totals 137; 1
 _First atlas of Somerset County._ Another slim volume, the atlas contains a map of the United States, a map of New Jersey, a map of the combined counties of Somerset and Hunterdon, nine township maps, twenty-one maps of towns and villages, a table of distances, and tables of the state's 1870 census figures. Many of the maps contain "Business Notices" that name merchants, businesses, and services.
 
 Pink, green, orange, and yellow colors distinguish between the nine townships: Bedminster, Bernard, Branchburg, Bridgewater, Franklin, Hillsborough, Montgomery, North Plainfield, and Warren. The Delaware and Raritan Canal parallels the Millstone River, and a number of railroads run east–west across the county.
-
-At the bottom of the map, between Rocky Hill and Kingston is the label "Washington's Headquarters 1777." The date should be 1783, when the Continental Congress temporarily removed to Princeton to escape the anger of unpaid troops in Philadelphia. At that time, General George Washington was in Newburgh, New York, with the remains of his standing army when he was called to appear before Congress. A suitable residence was found for him and his entourage in nearby Rocky Hill, a widow's estate called "Rockingham" that was being put up for sale.
-
 {% assign dir = "somerset" %}
 {% assign id = "2013-rockingham" %}
-{% assign title = "2013: Rockingham" %}
+{% assign title = "2013: Rockingham. Quarrying of the land around its site caused the home to be moved three times. Today, it rests near the Delaware and Raritan Canal, not far from the original location, in Kingston. Washington lived in the house from late August to November 1783, and it was here that he penned his famous farewell orders to his troops: &quot;The disadvantageous circumstances on our part, under which the war was undertaken, can never be forgotten. . . . For who has before seen a disciplined Army form'd at once from such raw materials? Who, that was not a witness, could imagine that the most violent local prejudices would cease so soon, and that Men who came from the different parts of the Continent, strongly disposed, by the habits of education, to despise and quarrel with each other, would instantly become but one patriotic band of Brothers, or who, that was not on the spot, can trace the steps by which such a wonderful revolution has been effected, and such a glorious period put to all our warlike toils?&quot;<sup>1</sup>" %}
 {% include figure-left.html %}
-Quarrying of the land around its site caused the home to be moved three times. Today, it rests near the Delaware and Raritan Canal, not far from the original location, in Kingston. Washington lived in the house from late August to November 1783, and it was here that he penned his famous farewell orders to his troops: "The disadvantageous circumstances on our part, under which the war was undertaken, can never be forgotten. . . . For who has before seen a disciplined Army form'd at once from such raw materials? Who, that was not a witness, could imagine that the most violent local prejudices would cease so soon, and that Men who came from the different parts of the Continent, strongly disposed, by the habits of education, to despise and quarrel with each other, would instantly become but one patriotic band of Brothers, or who, that was not on the spot, can trace the steps by which such a wonderful revolution has been effected, and such a glorious period put to all our warlike toils?"<sup>1</sup>
+At the bottom of the map, between Rocky Hill and Kingston is the label "Washington's Headquarters 1777." The date should be 1783, when the Continental Congress temporarily removed to Princeton to escape the anger of unpaid troops in Philadelphia. At that time, General George Washington was in Newburgh, New York, with the remains of his standing army when he was called to appear before Congress. A suitable residence was found for him and his entourage in nearby Rocky Hill, a widow's estate called "Rockingham" that was being put up for sale.
+
+<h1 class="fancy nobg">◊ ◊ ◊</h1>
 
 {% assign dir = "somerset" %}
 {% assign id = "1873-bedminster-township-map" %}
 {% assign title = "&quot;Bedminster [Township].&quot; Lithograph map, with added color, 34.4 × 28.1 cm. Scale: 200 rods to 1 inch." %}
-{% include figure-left.html %}
+{% include figure.html %}
+
 The proposed route of the New Jersey West Line Railroad dissects the bottom of the township. But, due to competition and wrangling among bondholders, only the section between Bernardsville (Somerset County) and Summit (Union County) was ever completed. Numbers along the roads indicate approximate distances (in rods).
 
+<h1 class="fancy nobg">◊ ◊ ◊</h1>
+
+{% assign dir = "somerset" %}
+{% assign id = "2013-queens-bridge" %}
+{% assign title = "2013: Queen's Bridge, viewed from the Bound Brook side where the American forces had a battery." %}
+{% include figure-left.html %}
 {% assign dir = "somerset" %}
 {% assign id = "1873-bound-brook-bloomington-map" %}
 {% assign title = "&quot;Bound Brook and Bloomington.&quot; Lithograph map, with added color, 35.4 × 57.2 cm. Scale: 400 feet to 1 inch." %}
 {% include figure-right.html %}
-
 The map shows Bound Brook in green, Bloomington in yellow. Bloomington became South Bound Brook in 1891. Lumber manufacturers and dealers dominate the "Business Notices." The Codington & Tappen Co. (Coddington & Tappan) lumberyard occupied a large part of Bloomington at the time, but the partners dissolved their business in 1875 (two years after this map). The Queen's Bridge, across which Hessian troops pursued American patriots in the Battle of Bound Brook during the American Revolution, is the green/yellow line across the Raritan River
 
-{% assign dir = "somerset" %}
-{% assign id = "2013-queens-bridge" %}
-{% assign title = "2013: Queen's Bridge. One view from the South Bound Brook side, and another from Bound Brook where the American forces had a battery." %}
-{% include figure.html %}
 The three other proposed bridges across the Raritan River never developed, but today Interstate 287 crosses into South Bound Book farther to the west, cuts across the bend in the river, and then crosses it again to the east.
 
 ---
-
-<small><sup>1</sup> George Washington, <em>The Writings of George Washington</em> (1938), vol. 27, pp. 223–224. The original document is dated "Rocky Hill, 30th Octob.: 1783."</small>
+<div class="footnotes">
+    <small><sup>1</sup> George Washington, <em>The Writings of George Washington</em> (1938), vol. 27, pp. 223–224. The original document is dated "Rocky Hill, 30th Octob.: 1783."</small>
+</div>

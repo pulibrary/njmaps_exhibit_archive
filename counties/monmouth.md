@@ -20,9 +20,11 @@ title: Monmouth County
 
 {% assign dir = "monmouth" %}
 {% assign id = "1851-monmouth-county-wall-map" %}
-{% assign title = "1851: County Wall Map. Jesse Lightfoot. &quot;Map of Monmouth County New Jersey from Original Surveys&quot; (Middletownpoint, [N.J.]: J. B. Shields, 1851Middletownpoint [N.J.] : J.B. Shields, 1851) [Library of Congress]. Wall map, with ornamental border, 99 × 138 cm99 X 138 Cm. Scale: 1 mile to 1.5 inches." %}
+{% assign title = "Jesse Lightfoot. &quot;Map of Monmouth County New Jersey from Original Surveys&quot; (Middletownpoint, [N.J.]: J. B. Shields, 1851Middletownpoint [N.J.] : J.B. Shields, 1851) [Library of Congress]. Wall map, with ornamental border, 99 × 138 cm99 X 138 Cm. Scale: 1 mile to 1.5 inches." %}
 {% include figure.html %}
-_First wall map of Monmouth County._ It includes detailed plans of Freehold, Keyport, Middletown Point (today's Matawan), and Red Bank. Large bold capital letters name the twelve townships, and dotted lines mark their borders: Atlantic, Freehold, Howell, Manalapan, Marlborough, Middletown, Millstone, Ocean, Raritan, Shrewsbury, Upper Freehold, and Wall. Smaller capitals name the towns and villages, as well as several major roads and geographic features. The sheet is embellished with fourteen engravings: four churches, 95 X 95 Cmfive private residences, a hotel (Freehold), a boarding house (Deal), a ladies seminary (Freehold), county buildings (Freehold), and a beach boarding house (Long Branch).
+<p class="dropCap">
+	First wall map of Monmouth County. It includes detailed plans of Freehold, Keyport, Middletown Point (today's Matawan), and Red Bank. Large bold capital letters name the twelve townships, and dotted lines mark their borders: Atlantic, Freehold, Howell, Manalapan, Marlborough, Middletown, Millstone, Ocean, Raritan, Shrewsbury, Upper Freehold, and Wall. Smaller capitals name the towns and villages, as well as several major roads and geographic features. The sheet is embellished with fourteen engravings: four churches, 95 X 95 Cmfive private residences, a hotel (Freehold), a boarding house (Deal), a ladies seminary (Freehold), county buildings (Freehold), and a beach boarding house (Long Branch).
+</p>
 
 >**1834:** _**Long Branch**_, well known and much frequented sea-bathing place, on the Atlantic ocean, 75 miles from Philadelphia, and 45 from New York, in Shrewsbury t-ship, and Monmouth co., which has its name from the stream and hamlet above. The inducements to the invalid, the idle, and the hunters of pleasure, to spend a portion of the hot season here, are many. Good accommodations, obliging hosts, a clean and high shore, with a gently shelving beach, a fine prospect seaward, enlivened by the countless vessels passing to and from New York, excellent fishing on the banks, 3 or 4 miles at sea, good gunning, and the great attraction of all watering places, much, and changing and fashionable company. During the season, a regular line of stages runs from Philadelphia, and a steamboat from New York, to the boarding houses here, of which there are several; Wardell's, Renshaw's, and Sear's are the most frequented. Many respectable farmers also receive boarders, who, in the quiet of rural life, enjoy in comfort and ease, their season of relaxation, perhaps more fully than those at the public hotels. Along the beach at Long Branch is a strip of fertile black sand, several miles in length, and exceeding more than a mile in width. The land adjacent to the ocean rises perpendicularly from the beach, near 20 feet. The boarding houses are 20 rods from the water, with lawns in the intermediate space. The high banks are formed by strata of sand, clay, and sea mud [Gordon, p. 170].
 
@@ -46,7 +48,7 @@ The site of the American Revolution's Battle of Monmouth (June 28, 1778) is give
 
 {% assign dir = "monmouth" %}
 {% assign id = "2013-monmouth-battlefield-wemrock-creek" %}
-{% assign title = "2013: Monmouth Battlefield. View from Combs Hill across Wemrock Creek." %}
+{% assign title = "2013: Bridge over Wemrock Creek." %}
 {% include figure-left.html %}
 {% assign dir = "monmouth" %}
 {% assign id = "2013-monmouth-battlefield" %}
@@ -76,7 +78,7 @@ Grown to fourteen in number, the townships are colored in blue, yellow, pink, or
 {% include figure-right.html %}
 The New Jersey Southern Railroad, vertically bisecting the map, was the former Raritan and Delaware Bay Railroad. The R&DB was chartered in 1854 to build a line from Raritan Bay to Cape May; by 1860 it had opened service from the bay to Eatontown and, by a branch, to Long Branch on the shore. With a length of five thousand feet, the wharf shown on the map extending well into Sandy Hook Bay was one of the railroad's great engineering accomplishments. The outline of a planned pentagon-shaped fort is visible at the tip of Sandy Hook. Army engineers began building the massive walls in 1859; when construction ceased ten years later, approximately 70 percent was completed. By then, developments in canon technology had made these types of fortifications obsolete. Note that the Sandy Hook peninsula—in contrast to its depiction on William Watson's 1812 state map—is longer now and unbroken.
 
-Anticipating rapid growth, the township realized its church cemeteries would not be sufficient, and laid out Fairview Cemetery (shown in green) as a large park in 1851. "Garrets Hill" (circled in red on the map) is the "Indian Trees" site of colonial charts. (See the 1749 New York Harbor chart in the "Historical Background Maps" section.)
+Anticipating rapid growth, the township realized its church cemeteries would not be sufficient, and laid out Fairview Cemetery (shown in green) as a large park in 1851. "Garrets Hill" is the "Indian Trees" site of colonial charts. (See the 1749 New York Harbor chart in the "Historical Background Maps" section.)
 
 <h1 class="fancy nobg">◊ ◊ ◊</h1>
 
