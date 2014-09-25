@@ -100,10 +100,11 @@ With this wheelbarrow-like instrument—not much different in function from toda
 
 ###Sample Survey
 
-<div class="left">
-	<img src="../njmaps/assets/img/2014-brearley-house.png" alt="">
+<div class="left" id="imgmodal">
+	<img src="../njmaps/assets/img/2014-brearley-house.png" alt="Brearley House today">
 	<div class="caption">2014: The Brearley House today (third house from the left on the map).</div>
 </div>
+
 {% assign dir = "intro" %}
 {% assign id = "1749-brearley-yard-survey" %}
 {% assign title = "Joseph Yard. Survey of James Clarke and David Brearley lots near the Stony Brook, dated December 2, 1749 [Clarke Family of New Jersey Collection, Manuscripts Division]. Manuscript map on paper, 15.5 × 27 cm. Notice that the lengths are given in number of chains and links between posts and trees." %}

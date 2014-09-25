@@ -67,5 +67,5 @@ The main purpose of the map is to aid sailors in navigating the treacherous entr
 
 <div class="footnotes">
     <small><sup>1</sup> This version of the wording of the colonial charter is taken from the website of the Law Library of the New Jersey State Library: <a href="http://www.njstatelib.org/research_library/legal_resources/historical_laws/charters_and_treaties/">(http://www.njstatelib.org/research_library/legal_resources/historical_laws/charters_and_treaties/)</a> (accessed November 2013).</small>
-    <small><sup>2</sup> the Quintipartite Deed, signed by George Carteret, William Penn, Gawen Lawry, Nicholas Lucas, and Edward Byllynge.</small>
+    <small><sup>2</sup> The Quintipartite Deed, signed by George Carteret, William Penn, Gawen Lawry, Nicholas Lucas, and Edward Byllynge.</small>
 </div>

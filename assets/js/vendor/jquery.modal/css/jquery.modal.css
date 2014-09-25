@@ -109,3 +109,10 @@
   .vignette.fade {
     opacity: 0;
     filter: alpha(opacity=0); }
+
+.modaler img {
+  max-height: 80%;
+  width: auto;
+  display: block;
+  margin: 0 auto;
+}

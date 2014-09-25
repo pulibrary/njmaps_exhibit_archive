@@ -498,3 +498,14 @@ p.dropCap {
     }
   }
 }
+
+.gallery {
+  img, .caption {
+    width: 23%;
+    margin-right: 1%;
+    display: inline-block;
+  }
+  .caption {
+    margin-bottom: 1em;
+  }
+}

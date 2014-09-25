@@ -1,7 +1,7 @@
 button,
 input[type="submit"] {
   -webkit-font-smoothing: antialiased;
-  background-color: #477dca;
+  background-color: #477DCA;
   border-radius: 0.1875em;
   color: white;
   display: inline-block;
@@ -18,7 +18,7 @@ input[type="submit"] {
 body {
   -webkit-font-smoothing: antialiased;
   background-color: white;
-  color: #333333;
+  color: #333;
   font-family: "Libre Baskerville", Georgia, Cambria, "Times New Roman", Times, serif;
   font-size: 1.1em;
   line-height: 1.65; }
@@ -54,7 +54,7 @@ a {
   -webkit-transition: color 0.1s linear;
   -moz-transition: color 0.1s linear;
   transition: color 0.1s linear;
-  color: #477dca;
+  color: #477DCA;
   text-decoration: none; }
   a:hover {
     color: #2c5999; }
@@ -63,7 +63,7 @@ a {
     outline: none; }
 
 hr {
-  border-bottom: 1px solid #dddddd;
+  border-bottom: 1px solid #DDD;
   border-left: none;
   border-right: none;
   border-top: none;
@@ -74,7 +74,7 @@ img {
   max-width: 100%; }
 
 blockquote {
-  border-left: 2px solid #dddddd;
+  border-left: 2px solid #DDD;
   color: #595959;
   margin: 1.65em 0;
   padding-left: 0.825em; }
@@ -87,7 +87,7 @@ cite {
 
 fieldset {
   background: #f7f7f7;
-  border: 1px solid #dddddd;
+  border: 1px solid #DDD;
   margin: 0 0 0.825em 0;
   padding: 1.65em; }
 
@@ -117,7 +117,7 @@ select[multiple=multiple] {
   transition: border-color;
   background-color: white;
   border-radius: 0.1875em;
-  border: 1px solid #dddddd;
+  border: 1px solid #DDD;
   box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06);
   font-family: "Libre Baskerville", Georgia, Cambria, "Times New Roman", Times, serif;
   font-size: 1.1em;
@@ -131,7 +131,7 @@ select[multiple=multiple] {
   textarea:focus,
   input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus,
   select[multiple=multiple]:focus {
-    border-color: #477dca;
+    border-color: #477DCA;
     box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06), 0 0 5px rgba(55, 112, 192, 0.7);
     outline: none; }
 
@@ -172,7 +172,7 @@ th {
   text-align: left; }
 
 td {
-  border-bottom: 1px solid #dddddd;
+  border-bottom: 1px solid #DDD;
   padding: 0.825em 0; }
 
 tr, td, th {
@@ -298,7 +298,7 @@ section {
         font-size: 2.4em;
         margin-bottom: .2em;
         color: #f9f2d9;
-        text-shadow: 2px 2px #333333; }
+        text-shadow: 2px 2px #333; }
         .hero .hero-inner .hero-copy h1 a {
           color: #f9f2d9; }
         @media screen and (min-width: 53.75em) {
@@ -422,24 +422,24 @@ aside {
     aside nav .empty {
       display: block;
       padding: 1em;
-      color: #333333;
+      color: #333;
       font-weight: bold;
       font-family: sans-serif;
       font-size: .9em; }
       aside nav .empty:hover {
         background: #d2d2b0;
-        color: #333333;
+        color: #333;
         cursor: pointer; }
     aside nav a {
       display: block;
       padding: 1em;
-      color: #333333;
+      color: #333;
       font-weight: bold;
       font-family: sans-serif;
       font-size: .9em; }
       aside nav a:hover {
         background: #d2d2b0;
-        color: #333333; }
+        color: #333; }
       aside nav a:active, aside nav a:focus {
         color: #2c5999;
         outline: none; }
@@ -615,3 +615,12 @@ p.dropCap {
     .site-footer .contain p {
       font-size: 12px;
       text-align: center; }
+
+.gallery img, .gallery .caption {
+  width: 23%;
+  margin-right: 1%;
+  display: inline-block; }
+.gallery .caption {
+  margin-bottom: 1em; }
+
+/*# sourceMappingURL=screen.css.map */
