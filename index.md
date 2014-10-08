@@ -23,7 +23,7 @@ The final section covers the Jersey shore, from Sandy Hook to Cape May, during t
 
 <h1 class="fancy nobg">◊ ◊ ◊</h1>
 
-Supporting the maps are illustrations from the atlases and, where possible and appropriate, recent photographs of the same structures and areas for the purpose of historical contrast. An important New Jersey historical source has been utilized in the process: A Gazetteer of the State of New Jersey, the state’s first gazetteer, published in 1834. Its author, Thomas F. Gordon (1787–1860), should not be confused with the New Jersey wall map cartographer of the same name; this unrelated Gordon was a Pennsylvanian who compiled gazetteers of the three Middle Atlantic states.
+Supporting the maps are illustrations from the atlases and, where possible and appropriate, recent photographs of the same structures and areas for the purpose of historical contrast. An important New Jersey historical source has been utilized in the process: _A Gazetteer of the State of New Jersey_, the state’s first gazetteer, published in 1834. Its author, Thomas F. Gordon (1787–1860), should not be confused with the New Jersey wall map cartographer of the same name; this unrelated Gordon was a Pennsylvanian who compiled gazetteers of the three Middle Atlantic states.
 
 {% assign dir = "intro" %}
 {% assign id = "gordon-gazetteer-title-page-1834" %}

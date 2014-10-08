@@ -20,7 +20,7 @@ The first hundred pages document the history of the New Jersey coast, by county 
 Large storms have ravaged the Jersey coast time and again. The headline of a nineteenth-century _New York Tribune_ article proclaimed "A Coast Line Changed":
 {% assign dir = "coast" %}
 {% assign id = "1878-coast-atlas-cover-title" %}
-{% assign title = "Cover. 1878: Regional Atlas. T. F. Rose. Historical and Biographical Atlas of the New Jersey Coast (Philadelphia: Woolman & Rose, 1878) [Historic Maps Collection]. 390 pp., including illustrations and maps." %}
+{% assign title = "Cover. T. F. Rose. Historical and Biographical Atlas of the New Jersey Coast (Philadelphia: Woolman & Rose, 1878) [Historic Maps Collection]. 390 pp., including illustrations and maps." %}
 {% include figure-right.html %}
 >The storm is raging with great violence along the entire New-Jersey coast from Sandy Hook Point to Cape May City, and up the Delaware River as far north as Trenton. It is beyond question the most severe storm that has visited that portion of the Atlantic coast within the memory of the present generation. It is impossible to estimate in dollars and cents what the loss will be. . . . The contour of the coast has been changed to a remarkable degree in many places [September 12, 1889].
 

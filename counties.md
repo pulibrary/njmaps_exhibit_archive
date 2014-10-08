@@ -57,7 +57,7 @@ Unscrupulous men and methods? To the modern consumer, they seem contemporary, fo
 
 ---
 
-For New Jersey, the first county wall maps were published between 1849 and 1872. New Jersey county atlases first appeared between 1868 and 1882. In this volume, the following are shown (where possible) for each New Jersey county:
+For New Jersey, the first county wall maps were published between 1849 and 1872. New Jersey county atlases first appeared between 1868 and 1882. On this site, the following are shown (where possible) for each New Jersey county:
 
 <ul class="bullet">
 	<li>The first county wall map and a current photograph of a building/place engraved or shown on it</li>

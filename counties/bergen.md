@@ -94,11 +94,11 @@ The steep cliffs of the Palisades are shown extending all along the Hudson River
 
 {% assign dir = "bergen" %}
 {% assign id = "1876-bank-of-bergen-county" %}
-{% assign title = "&quot;Bank of Bergen County at Hackensack&quot; (1876)." %}
+{% assign title = "Left: &quot;Bank of Bergen County at Hackensack&quot; (1876). Right: 2013: Constructed in 1874, the building is considered today to be one of the best examples of Victorian Gothic architecture in the county. Currently, it is the Breslin Building, housing law offices." %}
 {% assign dir2 = "bergen" %}
 {% assign id2 = "2013-hackensack-bank" %}
-{% assign title2 = "2013: Constructed in 1874, the building is considered today to be one of the best examples of Victorian Gothic architecture in the county. Currently, it is the Breslin Building, housing law offices." %}
-{% include figure2.html %} 
+{% assign title2 = "Left: &quot;Bank of Bergen County at Hackensack&quot; (1876). Right: 2013: Constructed in 1874, the building is considered today to be one of the best examples of Victorian Gothic architecture in the county. Currently, it is the Breslin Building, housing law offices." %}
+{% include figure2-caption.html %} 
 
 <h1 class="fancy">1836: Regional Map</h1>
 

@@ -5,7 +5,7 @@ title: Purchase This Book
 
 <p class="type">Nova Cæsarea: A Cartographic Record of the Garden State, 1666-1888</p>
 
-#Purchase This Book
+#Purchase the Companion Book
 
 The companion book to the exhibition is the largest (in all senses) work on New Jersey history to be published in its 350th-anniversary year. Only 1500 total copies were printed. Two editions are available for purchase:
 
@@ -176,3 +176,5 @@ The companion book to the exhibition is the largest (in all senses) work on New 
     </div>
   </div>
 </div>
+
+<br>
