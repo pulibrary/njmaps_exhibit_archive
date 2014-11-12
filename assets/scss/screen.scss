@@ -511,3 +511,13 @@ p.dropCap {
     margin-bottom: 1em;
   }
 }
+
+.branding .contain .right a:link, 
+.branding .contain .right a:visited   {
+  color: #fff;
+}
+
+.branding .contain .right a:hover,
+.branding .contain .right a:active {
+  color: yellow;
+} 

@@ -18,8 +18,8 @@ title: Warren County
 
 <h1 class="fancy">1852: County Wall Map</h1>
 {% assign dir = "warren" %}
-{% assign id = "1852-warren-county-map" %}
-{% assign title = "D. McCarty. &quot;Map of Warren County, New Jersey&quot; (Philadelphia: Friend and Aub, 1852) [New Jersey Historical Society]. Wall map, with ornamental border and added color, 128 × 100 cm. Scale: 60 chains to 1 inch. [Used with permission of the New Jersey Historical Society, Newark, New Jersey.]" %}
+{% assign id = "warren-lc" %}
+{% assign title = "D. McCarty. &quot;Map of Warren County, New Jersey&quot; (Philadelphia: Friend and Aub, 1852) [Library of Congress]. Wall map, with ornamental border and added color, 128 × 100 cm. Scale: 60 chains to 1 inch." %}
 {% include figure.html %}
 <p class="dropCap">
 	First wall map of Warren County. Orange, yellow, pink, green, or blue colors identify the incorporated town of Belvidere and fourteen townships: Blairstown, Franklin, Frelingh	usen, Greenwich, Hardwick, Harmony, Hope, Independence, Knowlton, Mansfield, Oxford, Pahaquarry, Phillipsburg, and Washington. Drawing from the U.S. census of 1850, a data table at the top lists vital statistics for each of those districts: population and the number of churches, dwellings, farms, sawmills, horses, and cows. (The "Description" on the right proclaims this to be "one of the best agricultural Districts in the State.") In addition, town plans for Hope, Hackettstown, and Belvidere grace the sides of the central map, and an inset at the bottom enlarges the region between the towns of Phillipsburg and Lopatcong. Engravings of the state capitol in Trenton and the county courthouse in Belvidere, as well as a view of the Delaware Water Gap, complete the visual features of the map.

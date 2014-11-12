@@ -44,8 +44,8 @@ In 1676, subsequent to a new agreement with new parties<sup>2</sup>—financial 
 <h1 class="fancy nobg">◊ ◊ ◊</h1>
 
 {% assign dir = "background" %}
-{% assign id = "1675-seller-map2" %}
-{% assign title = "1675: John Seller (active 1658–1698). &quot;A Mapp of New Jarsey&quot; ([London: J. Seller, 1675]) [New Jersey Historical Society]. Copperplate map, with added color, 42.5 × 54 cm. Separately published. Reference: Burden, The Mapping of North America II, 463. [Used with permission of the New Jersey Historical Society, Newark, New Jersey.]" %}
+{% assign id = "1675-seller-state-map" %}
+{% assign title = "1675: John Seller (active 1658–1698). &quot;A Mapp of New Jarsey&quot; ([London: J. Seller, 1675]). Copperplate map, with added color, 42.5 × 54 cm. Separately published. Reference: Burden, The Mapping of North America II, 463. [Used by permission of Barry Lawrence Ruderman.]" %}
 {% include figure-right.html %}
 _First state of the first map of New Jersey published in English_. The map also contains the second earliest English view of New York City. Among other changes, later states improve upon the depiction of New York Harbor and acknowledge the division into East and West Jersey as directed by the Quintipartite Deed. Seller was an important English mapmaker, the first to establish an atlas-publishing firm to compete with Continental companies like that of the Dutch Blaeu family. In 1671, he was appointed "Hydrographer to the King." Financial difficulties ultimately forced him to bring in partners.
 
