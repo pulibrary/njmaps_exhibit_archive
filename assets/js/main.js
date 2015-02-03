@@ -76,7 +76,7 @@ $(document).ready(function(){
 		preserveViewport: true,
 		showNavigator:  true,
 		visibilityRatio: 1,
-		tileSources: [{"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2", "scale_factors": [1, 2, 4, 8, 16], "tile_height": 256, "height": 3600, "width": 2676, "tile_width": 256, "qualities": ["native", "bitonal", "grey", "color"], "formats": ["jpg", "png", "gif"], "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", "@id": "http://libimages.princeton.edu/loris/pudl0001%2F5138415%2F00000011.jp2"}]
+		tileSources: [{"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2", "scale_factors": [1, 2, 4, 8, 16], "tile_height": 256, "height": 3600, "width": 2676, "tile_width": 256, "qualities": ["native", "bitonal", "grey", "color"], "formats": ["jpg", "png", "gif"], "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", "@id": "http://libimages.princeton.edu/loris2/pudl0001%2F5138415%2F00000011.jp2"}]
 	}
 	
 	// initialize OpenSeadragon
