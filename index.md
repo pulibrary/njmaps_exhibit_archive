@@ -27,13 +27,13 @@ Supporting the maps are illustrations from the atlases and, where possible and a
 
 {% assign dir = "intro" %}
 {% assign id = "gordon-gazetteer-title-page-1834" %}
-{% assign title = "Title page and frontpiece map of Gordon's 1834 gazetteer." %}
+{% assign title = "Title page and frontispiece map of Gordon's 1834 gazetteer." %}
 {% assign dir2 = "intro" %}
 {% assign id2 = "1834-new-sersey-map-gordon-foldout" %}
-{% assign title2 = "Title page and frontpiece map of Gordon's 1834 gazetteer." %}
-{% include figure2-caption.html %} 
-Gordon’s notes on every village, hamlet, and creek provide interesting textual references to the visual features of the maps. They give a sense of the size and tenor of the communities in the early 1800s.  Quotations from that work are dated 1834.  
-	
+{% assign title2 = "Title page and frontispiece map of Gordon's 1834 gazetteer." %}
+{% include figure2-caption.html %}
+Gordon’s notes on every village, hamlet, and creek provide interesting textual references to the visual features of the maps. They give a sense of the size and tenor of the communities in the early 1800s.  Quotations from that work are dated 1834.
+
 The “documentary” photographs were taken with a Canon PowerShot SX160 IS digital camera during sorties around the state last year. They are dated 2013 or 2014.
-	
+
 The maps were measured between the neat lines, vertically then horizontally. Because many of these maps are quite large and are presented in reduced format, their scales provide a means of comparison. The sources of the maps and atlases are given in brackets after their titles.
