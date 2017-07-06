@@ -2,33 +2,15 @@
 
 source:      .
 destination: ./_site
-plugins:     ./_plugins
-layouts:     ./_layouts
-include:     ['.htaccess']
-exclude:     []
-keep_files:  ['.git','.svn']
-gems:        []
-timezone:    nil
-encoding:    nil
+layouts_dir:     ./_layouts
+encoding:    utf-8
 
 future:      true
 show_drafts: nil
 limit_posts: 0
 
-relative_permalinks: true
-
-permalink:     date
-paginate_path: 'page:num'
-
 markdown:      rdiscount
 
-excerpt_separator: "\n\n"
-
-safe:        false
-watch:       false    # deprecated
-server:      false    # deprecated
-host:        0.0.0.0
-port:        4000
-baseurl:     /
-url:         http://library.princeton.edu/njmaps/
+baseurl:     
+url:         https://library.princeton.edu/njmaps
 lsi:         false
