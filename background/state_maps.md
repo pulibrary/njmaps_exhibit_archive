@@ -37,7 +37,7 @@ In 1882, the boundary line was re-examined, and the old stone markers that had b
 {% include figure-left.html %}
 {% assign dir = "background" %}
 {% assign id = "2013-monument-marker-eastern2" %}
-{% assign title = "2013: Eastern boundary monument. On the Palisades above the Hudson River, this is the eastern boundary marker on the New Jersey/New York boundary line. As it states, it is 488 feet west of "station rock," down on the riverbank, the state's easternmost point." %}
+{% assign title = "2013: Eastern boundary monument. On the Palisades above the Hudson River, this is the eastern boundary marker on the New Jersey/New York boundary line. As it states, it is 488 feet west of &quot;station rock,&quot; down on the riverbank, the state's easternmost point." %}
 {% include figure.html %}
 {% assign dir = "background" %}
 {% assign id = "2014-province-road" %}

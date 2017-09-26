@@ -9,7 +9,7 @@ title: Purchase This Book
 
 The companion book to the exhibition is the largest (in all senses) work on New Jersey history to be published in its 350th-anniversary year. Only 1500 total copies were printed. Two editions are available for purchase:
 
-####The regular edition (1150 copies): $100
+####[The regular edition (1150 copies): $100](http://www.dianepublishing.net/Nova_Caesarea_p/0878110585.htm)
 
 <img src="assets/img/cover-regular.png" alt="Nova Caesarea" style="float:right;height:220px;margin-right:32px;">
 <ul class="bullet">
@@ -20,7 +20,7 @@ The companion book to the exhibition is the largest (in all senses) work on New 
     <li>Copies are bound in litho-wrapped hard covers.</li>
 </ul>
 <p></p>
-####The special edition (350 copies in honor of NJ’s 350th): $250
+####[The special edition (350 copies in honor of NJ’s 350th): $250](http://www.dianepublishing.net/Nova_Caesarea_p/0878110577.htm)
 
 <img src="assets/img/cover-special-folder.png" alt="Nova Caesarea" style="float:right;height:220px;margin-right:32px;">
 <ul class="bullet">
@@ -30,7 +30,8 @@ The companion book to the exhibition is the largest (in all senses) work on New 
     <li>Both volume and folder are housed in a custom cloth slipcase. Weighs 10 pounds.</li>
 </ul>
 <p></p>
-###To order the book, use [this order form](assets/order-form.pdf)
+
+[Diane Publishing](http://www.dianepublishing.net) distributes Nova Caesarea (as well as all other Princeton University Library publications).
 
 ####Supplemental Images:
 

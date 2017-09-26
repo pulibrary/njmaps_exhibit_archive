@@ -80,7 +80,7 @@ Recognizing the need years earlier (1799), the state legislature had established
 
 {% assign dir = "background" %}
 {% assign id = "1799-state-map-broadside" %}
-{% assign title = "&quot;Plan of a Company, for Procuring an Accurate Map of the State of New-Jersey&quot; (Trenton: G. Craft, 1799) [courtesy of Joseph J. Felcone.] This is the only known copy of the broadside of the prospectus, with the signatures of fifteen Cape May County subscribers. Adjacent to the signatures of several subscribers is the notation "Money returned," with dates beginning in early January 1801. Copy of Aaron Leaming (1740–1829), prominent Cape May citizen." %}
+{% assign title = "&quot;Plan of a Company, for Procuring an Accurate Map of the State of New-Jersey&quot; (Trenton: G. Craft, 1799) [courtesy of Joseph J. Felcone.] This is the only known copy of the broadside of the prospectus, with the signatures of fifteen Cape May County subscribers. Adjacent to the signatures of several subscribers is the notation &quot;Money returned,&quot; with dates beginning in early January 1801. Copy of Aaron Leaming (1740–1829), prominent Cape May citizen." %}
 {% include figure-left.html %}
 The plan was to sell two thousand shares at five dollars each to raise ten thousand dollars to fund the mapping activities. By the end of 1800, it was apparent that the money could not be raised for what was becoming a daunting project and would have to be returned.
 
