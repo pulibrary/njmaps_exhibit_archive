@@ -72,7 +72,7 @@ $(document).ready(function(){
 	
 	var osd_config = {
 		id: "viewer",
-		prefixUrl: "/assets/js/vendor/openseadragon/images/",
+		prefixUrl: "/njmaps/assets/js/vendor/openseadragon/images/",
 		preserveViewport: true,
 		showNavigator:  true,
 		visibilityRatio: 1,
