@@ -48,7 +48,7 @@ $(document).ready(function(){
 		// $("#imgZoomLabel").text(label);
 	        var promises = []
 		promises.push(setOverlaySize());
-		promises.push( $.getJSON(url + CB,
+		promises.push( $.getJSON(url,
 			      function(data) {
 				      if(typeof o !== 'undefined'){
 					o.destroy();
@@ -67,7 +67,6 @@ $(document).ready(function(){
 	});
 	
 	/* LORIS stuff */
-	var CB = '?callback=?'
 	var rotation = 0;
 	
 	var osd_config = {
